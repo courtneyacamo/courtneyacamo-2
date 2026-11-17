@@ -1,39 +1,70 @@
 {
-  "$schema": "https://schema.openspace.host/v1/site.json",
-  "title": "Courtneyacamo",
+  "title": "Courtney Acamo",
+  "tagline": "Courtney’s intuitively guided approach to mentorship weaves modern therapy with ancient wisdom traditions, shamanic practices, and expressive arts. Serving courageous and willing souls that are ready…",
+  "logo": {
+    "src": "media/2026/11/2a148f-ee4f4f268565432d8a4ce30da8bd5292--jpbm.png",
+    "alt": "Courtney Acamo",
+    "width": 500,
+    "height": 500
+  },
+  "favicon": "media/2026/11/2a148f-bd49607a293a447ea7fc8d84d167f9fb--4ba2.png",
   "nav": [
     {
       "type": "page",
-      "page": "pg_nk4psng0wv",
+      "page": "pg_azf2c40xxd",
       "label": "Home"
+    },
+    {
+      "type": "page",
+      "page": "pg_z09bcz6592",
+      "label": "Intuitive Healing Sessions"
+    },
+    {
+      "type": "page",
+      "page": "pg_rcc4ea8mw5",
+      "label": "Vocal Alchemy Sessions"
+    },
+    {
+      "type": "page",
+      "page": "pg_aw1wv20h3p",
+      "label": "Custom Immersions"
+    },
+    {
+      "type": "page",
+      "page": "pg_wpy1y5esx5",
+      "label": "Contact me"
     }
   ],
   "header": {
     "variant": "classic-left",
+    "logoHeight": {
+      "d": 95,
+      "m": 40
+    },
     "sticky": false,
     "transparentOnHero": false,
-    "mobileMenu": "slide"
+    "mobileMenu": "fullscreen"
   },
   "footer": {
-    "id": "sec_jb05k90bs8",
+    "id": "sec_6w5tp4zma1",
     "layout": {
       "mode": "stack",
       "columns": {
         "d": [
           12
         ]
-      },
-      "align": "center"
+      }
     },
     "style": {
-      "colorTheme": "light",
-      "padding": {
-        "d": "md"
+      "colorTheme": "dark",
+      "background": {
+        "type": "color",
+        "color": "#826d45"
       }
     },
     "blocks": [
       {
-        "id": "blk_cfex3kyvrk",
+        "id": "blk_xnrw1x9574",
         "type": "text",
         "v": 1,
         "fields": {
@@ -41,19 +72,283 @@
             "type": "doc",
             "content": [
               {
-                "type": "paragraph",
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
                 "content": [
                   {
                     "type": "text",
-                    "text": "Courtneyacamo"
+                    "text": "Courtney's Latest",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://open.spotify.com/artist/5FqhYVXpMAaaJbwcFWSXhf?si=JUO0uAjNSdWRukVspjGVAw",
+                          "newTab": true
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Musical Offerings",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://open.spotify.com/artist/5FqhYVXpMAaaJbwcFWSXhf?si=JUO0uAjNSdWRukVspjGVAw",
+                          "newTab": true
+                        }
+                      }
+                    ]
                   }
                 ]
               }
             ]
           }
         }
+      },
+      {
+        "id": "blk_57xfwfvdt8",
+        "type": "image",
+        "v": 1,
+        "fields": {
+          "image": {
+            "src": "media/2026/11/2a148f-c8787ce566054df29a7ea31e3976a9ce--mger.png",
+            "alt": "",
+            "width": 90,
+            "height": 90,
+            "mediaId": "med_mgerca7cjm"
+          },
+          "aspect": "original",
+          "lightbox": false
+        }
+      },
+      {
+        "id": "blk_m7weh5xey1",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Open Your Heart",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Heal From Past Traumas",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Ignite Your Creativity",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "and Embrace A Life You Love",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "blk_2fwmr4ps25",
+        "type": "image",
+        "v": 1,
+        "fields": {
+          "image": {
+            "src": "media/2026/11/2a148f-e5a4612642ab4fa594f5b3c4c127833b--pacx.png",
+            "alt": "",
+            "width": 500,
+            "height": 500,
+            "mediaId": "med_pacxa2pcwr"
+          },
+          "aspect": "original",
+          "lightbox": false
+        }
+      },
+      {
+        "id": "blk_tjvsgwvsp0",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Photography by Violet Visions, Michael Zeligs"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "© Courtney Acamo 2024. All rights reserved."
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Terms and conditions"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Let's connect!"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "blk_bjkhdk5myj",
+        "type": "form",
+        "v": 1,
+        "fields": {
+          "form": {
+            "id": "frm_m7ynkf9zfw",
+            "name": "comp lrkkm5e8",
+            "fields": [
+              {
+                "name": "first_name",
+                "label": "First name",
+                "type": "text"
+              },
+              {
+                "name": "last_name",
+                "label": "Last name",
+                "type": "text"
+              },
+              {
+                "name": "email",
+                "label": "Email",
+                "required": true,
+                "type": "email",
+                "placeholder": "e.g., email@example.com"
+              }
+            ],
+            "submitLabel": "Submit",
+            "success": {
+              "type": "message",
+              "message": "Thank you! We'll be in touch soon."
+            },
+            "notifyOwner": true
+          }
+        }
+      },
+      {
+        "id": "blk_ggjhezfxb7",
+        "type": "social-links",
+        "v": 1,
+        "fields": {
+          "source": "site",
+          "profiles": [
+            {
+              "network": "instagram",
+              "url": "https://instagram.com/juniperyoga"
+            },
+            {
+              "network": "youtube",
+              "url": "https://youtube.com/@juniperyoga"
+            },
+            {
+              "network": "email",
+              "url": "mailto:hello@juniperyoga.com"
+            }
+          ]
+        }
       }
-    ]
+    ],
+    "label": "Footer"
   },
-  "locale": "en"
+  "social": [
+    {
+      "network": "spotify",
+      "url": "https://open.spotify.com/artist/5FqhYVXpMAaaJbwcFWSXhf?si=JUO0uAjNSdWRukVspjGVAw"
+    },
+    {
+      "network": "instagram",
+      "url": "https://www.instagram.com/courtneyacamo"
+    }
+  ],
+  "seo": {
+    "titleTemplate": "%s — Courtney Acamo",
+    "description": "Courtney’s intuitively guided approach to mentorship weaves modern therapy with ancient wisdom traditions, shamanic practices, and expressive arts. Serving courageous and willing souls that are ready to ignite a life of love, freedom, joy, and service. Courtneyacamo.com",
+    "image": "media/2026/11/2a148f-04d1214c7fc04707a73329fcee0e252c--9gr3.jpg"
+  },
+  "locale": "en",
+  "integrations": {
+    "analytics": false,
+    "bookingUrl": null,
+    "stripeConnected": false
+  }
 }

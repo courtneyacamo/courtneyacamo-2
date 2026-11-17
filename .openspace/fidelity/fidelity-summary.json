@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "score": 7,
+  "strict": 6,
+  "scorer": "v4-calibrated",
+  "before": 6,
+  "changes": [
+    "section padding 50px",
+    "section padding on phones 46px",
+    "/challenges: 1 section(s) at the narrow width, as on the original",
+    "text on light sections #000000, as on the original (13 of 13 sections)",
+    "heading on light sections #000000, as on the original (13 of 13 sections)",
+    "text on light-accent sections #000000, as on the original (2 of 2 sections)",
+    "/: \"AWAKEN THE CURRENTS OF CREATION\" set at the h2 size, as on the original",
+    "/bloom-retreat-may-2024: \"You're Invited\" set at the display size, as on the original",
+    "/contact-me: \"Get in touch\" set at the display size, as on the original",
+    "/copy-of-bloom-retreat-may-2024: \"You're Invited\" set at the display size, as on the original",
+    "/: section 3 881px tall, as on the original",
+    "/bloom-retreat-may-2024: section 1 711px tall, as on the original",
+    "/bloom-retreat-may-2024: section 7 609px tall, as on the original",
+    "/bloom-retreat-may-2024: section 15 1172px tall, as on the original",
+    "/copy-of-bloom-retreat-may-2024: section 1 711px tall, as on the original",
+    "/copy-of-bloom-retreat-may-2024: section 7 609px tall, as on the original",
+    "/copy-of-bloom-retreat-may-2024: section 15 1159px tall, as on the original",
+    "/bloom-retreat-may-2024: section 1 \"Bloom\" recreated as a custom component",
+    "/bloom-retreat-may-2024: section 2 \"You're Invited\" recreated as a custom component",
+    "/bloom-retreat-may-2024: section 3 \"If you feel called to :\" recreated as a custom component",
+    "/bloom-retreat-may-2024: section 7 recreated as a custom component",
+    "/bloom-retreat-may-2024: section 9 recreated as a custom component",
+    "/bloom-retreat-may-2024: section 10 recreated as a custom component",
+    "/bloom-retreat-may-2024: section 15 \"Frequently Asked Questions\" recreated as a custom component",
+    "/contact-me: \"Get in touch\" set at the h3 size, as on the original"
+  ],
+  "strictBefore": 4,
+  "withoutComponents": 7,
+  "withComponents": 7,
+  "pages": [
+    {
+      "path": "/",
+      "device": "desktop",
+      "score": 11,
+      "strict": 11,
+      "before": 8,
+      "strictBefore": 8,
+      "image": "thumb-home-d.jpg",
+      "differs": [
+        "Content width",
+        "Heading",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/",
+      "device": "desktop",
+      "score": 11,
+      "strict": 8,
+      "corrections": [
+        "Section 1: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 2: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 3: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 4: columns counted on screen only (2 → 2 counted as 1 → 2; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 5: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column)."
+      ],
+      "before": 8,
+      "strictBefore": 4,
+      "differs": [
+        "Content width",
+        "Heading",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/bloom-retreat-may-2024",
+      "device": "desktop",
+      "score": 15,
+      "strict": 15,
+      "before": 8,
+      "strictBefore": 8,
+      "image": "thumb-bloom-retreat-may-2024-d.jpg",
+      "differs": [
+        "Heading 2 size",
+        "Heading",
+        "Columns"
+      ]
+    },
+    {
+      "path": "/bloom-retreat-may-2024",
+      "device": "desktop",
+      "score": 10,
+      "strict": 4,
+      "corrections": [
+        "Section 1: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 2: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 3: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 5: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 6: columns counted on screen only (3 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 7: columns counted on screen only (3 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column)."
+      ],
+      "before": 8,
+      "strictBefore": 2,
+      "differs": [
+        "Heading 2 size",
+        "Heading",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/challenges",
+      "device": "desktop",
+      "score": 10,
+      "strict": 10,
+      "before": 6,
+      "strictBefore": 6,
+      "image": "thumb-challenges-d.jpg",
+      "differs": [
+        "Heading 1 size",
+        "Heading",
+        "Columns"
+      ]
+    },
+    {
+      "path": "/challenges",
+      "device": "desktop",
+      "score": 6,
+      "strict": 6,
+      "before": 6,
+      "strictBefore": 6,
+      "differs": [
+        "Heading 1 size",
+        "Content width",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/coming-soon-02",
+      "device": "desktop",
+      "score": 8,
+      "strict": 8,
+      "before": 7,
+      "strictBefore": 7,
+      "image": "thumb-coming-soon-02-d.jpg",
+      "differs": [
+        "Heading 1 size",
+        "Body text size",
+        "Background"
+      ]
+    },
+    {
+      "path": "/coming-soon-02",
+      "device": "desktop",
+      "score": 1,
+      "strict": 1,
+      "before": 3,
+      "strictBefore": 3,
+      "differs": [
+        "Heading 1 size",
+        "Body text size",
+        "Background"
+      ]
+    },
+    {
+      "path": "/contact-me",
+      "device": "desktop",
+      "score": 23,
+      "strict": 19,
+      "corrections": [
+        "Section 1: columns counted on screen only (3 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column)."
+      ],
+      "before": 10,
+      "strictBefore": 6,
+      "image": "thumb-contact-me-d.jpg",
+      "differs": [
+        "Image placement"
+      ]
+    },
+    {
+      "path": "/contact-me",
+      "device": "desktop",
+      "score": 34,
+      "strict": 28,
+      "corrections": [
+        "Section 1: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column)."
+      ],
+      "before": 27,
+      "strictBefore": 15,
+      "differs": [
+        "Navigation: present",
+        "Image placement",
+        "Height"
+      ]
+    },
+    {
+      "path": "/copy-of-bloom-retreat-may-2024",
+      "device": "desktop",
+      "score": 12,
+      "strict": 12,
+      "before": 8,
+      "strictBefore": 8,
+      "image": "thumb-copy-of-bloom-retreat-may-2024-d.jpg",
+      "differs": [
+        "Heading 1 size",
+        "Heading 2 size",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/copy-of-bloom-retreat-may-2024",
+      "device": "desktop",
+      "score": 11,
+      "strict": 5,
+      "corrections": [
+        "Section 1: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 2: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 3: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 5: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 6: columns counted on screen only (3 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 7: columns counted on screen only (3 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column)."
+      ],
+      "before": 9,
+      "strictBefore": 3,
+      "differs": [
+        "Heading 1 size",
+        "Heading 2 size",
+        "Heading"
+      ]
+    }
+  ]
+}

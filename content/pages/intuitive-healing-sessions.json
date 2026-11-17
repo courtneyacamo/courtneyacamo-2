@@ -1,0 +1,766 @@
+{
+  "id": "pg_z09bcz6592",
+  "title": "Intuitive Healing Sessions",
+  "slug": "intuitive-healing-sessions",
+  "seo": {
+    "image": "media/2026/11/2a148f-04d1214c7fc04707a73329fcee0e252c--9gr3.jpg"
+  },
+  "sections": [
+    {
+      "id": "sec_5nxmq5xbt1",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "gap": "xl",
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light",
+        "padding": {
+          "d": "xl",
+          "m": "lg"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_tw9pd31539",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-266e714f79614f43b6e81d0cdf9b2a57--y6ga.png",
+              "alt": "",
+              "width": 736,
+              "height": 632,
+              "mediaId": "med_y6gaxb92nx",
+              "focal": [
+                0.5,
+                1
+              ]
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "variant": "default"
+        },
+        {
+          "id": "blk_cm0m20c313",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Intuitive Healing Sessions",
+            "level": "h1",
+            "size": "auto"
+          },
+          "variant": "plain",
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "hero/image-below@1",
+      "anchor": "comp-lr00zexs"
+    },
+    {
+      "id": "sec_w7q7p51q6q",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        },
+        "align": "center"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_gax5jyme4d",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Your feelings are Sacred ;"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "living teachers, wisdom keepers, and tellers of your stories of the past and present. In your session, we'll delve into the depths of your emotions and the power of your heart. Allowing layers of protection to dissolve and initiating profound transformation at cellular, mental, physical, and energetic levels."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "As your heart opens, the inner alchemy begins. I will guide and support you to meet yourself in LOVE. Together, we'll invite the return and integration of soul fragments, facilitating a deep connection with your unique essence and welcoming a greater sense of self-love and freedom."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_9dk9bpxkd3",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-2942ad80326a4f7a87bfab9b35202f75--v159.png",
+              "alt": "",
+              "width": 2400,
+              "height": 1725,
+              "mediaId": "med_v1592dky4n",
+              "focal": [
+                0.5,
+                0
+              ]
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 1
+        },
+        {
+          "id": "blk_rt17htnjc8",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-07f369eb935a4de48e2a1a15ae2e010c--41pp.png",
+              "alt": "",
+              "width": 800,
+              "height": 800,
+              "mediaId": "med_41ppq403s3"
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lr00xnlm"
+    },
+    {
+      "id": "sec_znxxw2mbwa",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/11062b-072948185e7345dd91b126e009855d05--a3fj.jpg",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.45
+          }
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_0m0fc8en58",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Working together to"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "welcome your wholeness"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_482gg71m4y",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-28d3a9ce346c4352886e59e1b384196a--30qe.png",
+              "alt": "",
+              "width": 800,
+              "height": 800,
+              "mediaId": "med_30qeg6s5rv"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        }
+      ],
+      "anchor": "comp-lr016r51"
+    },
+    {
+      "id": "sec_f97barhjyf",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark"
+      },
+      "blocks": [
+        {
+          "id": "blk_rb6ddt2e2a",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "through a spectrum of EFFECTIVE AND PROVEN HEALING MODALITIES that may include:"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "✓ "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Guided Visualization",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Allowing you to access healing, grounding, and harmonizing energies for personal empowerment."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "✓ Neuro-Linguistic Programming (NLP) techniques to illuminate the unseen patterns shaping your thoughts, emotions, and behaviors."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "✓ "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Cathartic Release",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Liberate emotions and patterns through sound, breath, and movement techniques."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "✓ "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Energy and Sound Healing",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Receive and learn how to use your voice for liberation and open to purification through energy work."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "✓ "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Internal Family Systems",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Reconcile, embrace, and connect with facets of your inner self to restore greater awareness and conscious actions in your life."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "✓ Bio-Emotive Therapy:",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " An emotional processing technique for mental, emotional, physical, and cellular transformation."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "✓ "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Intuitive Guidance",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Receive insights, perspective, guidance, and questions that directly support your unique evolutionary journey."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_dt43g63r54",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-3e2ddebfa89b40a4a6ea4f09d4faf678--z594.png",
+              "alt": "",
+              "width": 900,
+              "height": 700,
+              "mediaId": "med_z5947xngk8"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_j8bc07v57z",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-30949ecd80674a928d82c4cf6fec5a7c--jrec.png",
+              "alt": "",
+              "width": 800,
+              "height": 800,
+              "mediaId": "med_jrecg2k6x7"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_yvw4ehvmc2",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "These sessions are sacred. Providing a potent container of reclamation to delve into your heart, body, mind, and spirit and devote your presence to your healing with loving support.",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_2hjgfp7vs2",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-99de01a079fc456c854376fabfc5d457--ptzg.png",
+              "alt": "",
+              "width": 900,
+              "height": 700,
+              "mediaId": "med_ptzgvsbt7p"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_nzvr7kw77x",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/loader-600x600-vavy.gif",
+              "alt": "loader,gif",
+              "width": 1800,
+              "height": 1800,
+              "mediaId": "med_vavyvvx44w"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_r30mnmnfv8",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        },
+        "align": "center"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_v4npze8nza",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Investment in Yourself:"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I offer these session over zoom or in person in Boulder. It would be an honor to meet you where you are hold space for your process. If you're feeling a heartfelt 'Yes!' to your healing and evolution click the link below."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​​​​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Schedule Your Intuitive Healing Session:"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "$150",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        },
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​If you are seeking emotional support or guidance on your path, I am here wholeheartedly in service to"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "your liberation. Don't hesitate to reach out if you"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "have any questions or inquiries."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "With Love,"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Courtney"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_x418p2nkzq",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "BOOK HERE",
+            "link": {
+              "type": "url",
+              "url": "https://calendly.com/follow-your-blisten/intuitive-healing-session"
+            },
+            "role": "primary"
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_8q7hsynx0h",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-a6e5c3aba50d4aa5821b3f9fa020eaa8--xgcn.png",
+              "alt": "",
+              "width": 668,
+              "height": 996,
+              "mediaId": "med_xgcns20bh5",
+              "focal": [
+                0.5,
+                0
+              ]
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lr13t2m4"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "pg_wpy1y5esx5",
+  "title": "Contact me",
+  "slug": "contact-me",
+  "seo": {
+    "image": "media/2026/11/2a148f-04d1214c7fc04707a73329fcee0e252c--9gr3.jpg"
+  },
+  "sections": [
+    {
+      "id": "sec_0bsqfkyhwy",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/eadb0412451740f4ad9a763f9a358ddc-n8zt.jpg"
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [],
+      "anchor": "bglayers-comp-lrk1xdga"
+    },
+    {
+      "id": "sec_5tegsfphnf",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        },
+        "align": "center"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_kcdjzdg7dq",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-3cbc843fcf304f01958c66974f407785--q4wh.jpg",
+              "alt": "IMG_5854.JPG",
+              "width": 1800,
+              "height": 2400,
+              "mediaId": "med_q4wht14j5v"
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_tx8npmpyce",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-7556b69f6a084323ae3c3fe1c3a39a3c--hx0d.jpg",
+              "alt": "",
+              "width": 1602,
+              "height": 2400,
+              "mediaId": "med_hx0d0ymkas",
+              "focal": [
+                1,
+                0.5
+              ]
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-6-6@1"
+    },
+    {
+      "id": "sec_x2qhyk08yd",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_hpd5k58vrq",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "​",
+            "level": "h1",
+            "size": "auto"
+          },
+          "variant": "plain"
+        },
+        {
+          "id": "blk_w7x59qg753",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2,
+                    "preset": "h3"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Get in touch"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_hwshfzv9aw",
+          "type": "form",
+          "v": 1,
+          "fields": {
+            "form": {
+              "id": "frm_724vawc949",
+              "name": "comp lpr9ocik1",
+              "fields": [
+                {
+                  "name": "first_name",
+                  "label": "First Name",
+                  "type": "text"
+                },
+                {
+                  "name": "last_name",
+                  "label": "Last Name",
+                  "type": "text"
+                },
+                {
+                  "name": "email",
+                  "label": "Email",
+                  "required": true,
+                  "type": "email"
+                },
+                {
+                  "name": "message",
+                  "label": "Message",
+                  "type": "textarea"
+                }
+              ],
+              "submitLabel": "Send",
+              "success": {
+                "type": "message",
+                "message": "Thank you! We'll be in touch soon."
+              },
+              "notifyOwner": true
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

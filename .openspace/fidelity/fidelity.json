@@ -1,0 +1,5208 @@
+{
+  "score": 7,
+  "exact": 7.26,
+  "raw": 57.43,
+  "strict": {
+    "score": 6,
+    "exact": 5.92
+  },
+  "scorer": "v4-calibrated",
+  "pages": [
+    {
+      "path": "/",
+      "original": "https://www.courtneyacamo.com/",
+      "imported": "/ (local preview)",
+      "viewport": 1440,
+      "score": 11,
+      "structure": 61,
+      "checkScore": 60.671641791044784,
+      "present": 1,
+      "exact": 10.954157782515995,
+      "raw": 57.06276147905349,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "80px",
+          "imported": "80px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "80px",
+          "imported": "80px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "109px",
+          "imported": "109px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "avenir-lt-w01_35-light1475496",
+          "imported": "Jost (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"avenir-lt-w01_35-light1475496\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0em, none",
+          "imported": "0em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "354px",
+          "imported": "1280px",
+          "ok": false,
+          "fix": "choices.layout.contentWidth = 354",
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "11px",
+          "imported": "49px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 11",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "AWAKEN THE CURRENTS OF CREATION",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#ffffff",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 80px",
+              "imported": "Forum 80px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 50% wide",
+              "imported": "right, 56% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.06:1",
+              "imported": "0.75:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "679px",
+              "imported": "1230px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 1,
+          "heading": "Courtney’s intuitively guided approach to mentorship weaves modern therapy with ancient wisdom tradi",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 23px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "200px",
+              "imported": "1068px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 40
+        },
+        {
+          "index": 2,
+          "heading": "Hi, it’s nice to meet you.",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 64px",
+              "imported": "Forum 109px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#f8f1ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "2",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 48% wide",
+              "imported": "center, 100% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.99:1",
+              "imported": "0.66:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "881px",
+              "imported": "2168px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 17
+        },
+        {
+          "index": 3,
+          "heading": "Lets work",
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 80px",
+              "imported": "Forum 80px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 22px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 32% wide",
+              "imported": "left, 57% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.85:1",
+              "imported": "1.5:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1609px",
+              "imported": "2310px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 4,
+          "heading": "Client Love",
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 79px",
+              "imported": "Forum 80px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 34% wide",
+              "imported": "center, 89% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.33:1",
+              "imported": "1:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "747px",
+              "imported": "3373px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 56
+        }
+      ],
+      "strict": {
+        "score": 11,
+        "exact": 10.954157782515995,
+        "structure": 61,
+        "checks": 60.671641791044784,
+        "present": 1,
+        "raw": 57.06276147905349
+      },
+      "visual": 0.462
+    },
+    {
+      "path": "/",
+      "original": "https://www.courtneyacamo.com/",
+      "imported": "/ (local preview)",
+      "viewport": 1132,
+      "score": 11,
+      "structure": 61,
+      "checkScore": 61.349206349206355,
+      "present": 1,
+      "exact": 11.196145124716555,
+      "raw": 57.17097637530642,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "80px",
+          "imported": "80px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "80px",
+          "imported": "80px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "109px",
+          "imported": "109px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "avenir-lt-w01_35-light1475496",
+          "imported": "Jost (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"avenir-lt-w01_35-light1475496\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Navigation: present",
+          "original": "forum 20px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "506px",
+          "imported": "342px",
+          "ok": false,
+          "fix": "choices.layout.contentWidth = 506",
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "11px",
+          "imported": "39px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 11",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "AWAKEN THE CURRENTS OF CREATION",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#ffffff",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 80px",
+              "imported": "Forum 80px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 50% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.72:1",
+              "imported": "0.75:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "679px",
+              "imported": "1620px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 78
+        },
+        {
+          "index": 1,
+          "heading": "Courtney’s intuitively guided approach to mentorship weaves modern therapy with ancient wisdom tradi",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 23px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "200px",
+              "imported": "1980px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 40
+        },
+        {
+          "index": 2,
+          "heading": "Hi, it’s nice to meet you.",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 64px",
+              "imported": "Forum 109px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#f8f1ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 70% wide",
+              "imported": "center, 100% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.99:1",
+              "imported": "0.18:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "881px",
+              "imported": "2130px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 37
+        },
+        {
+          "index": 3,
+          "heading": "Lets work",
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 80px",
+              "imported": "Forum 80px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 22px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "2",
+              "ok": false,
+              "fix": "Fewer columns: merge them into one stack column.",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 47% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.85:1",
+              "imported": "1.5:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1609px",
+              "imported": "2489px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 47
+        },
+        {
+          "index": 4,
+          "heading": "Client Love",
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 79px",
+              "imported": "Forum 80px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 49% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.33:1",
+              "imported": "1:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "747px",
+              "imported": "1728px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 72
+        }
+      ],
+      "strict": {
+        "score": 8,
+        "exact": 7.794784580498865,
+        "structure": 52,
+        "checks": 51.82539682539682,
+        "present": 1,
+        "raw": 50.02811923244927
+      },
+      "corrections": [
+        "Section 1: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 2: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 3: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 4: columns counted on screen only (2 → 2 counted as 1 → 2; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 5: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column)."
+      ],
+      "visual": 0.446
+    },
+    {
+      "path": "/bloom-retreat-may-2024",
+      "original": "https://www.courtneyacamo.com/bloom-retreat-may-2024",
+      "imported": "/bloom-retreat-may-2024 (local preview)",
+      "viewport": 1440,
+      "score": 15,
+      "structure": 71,
+      "checkScore": 71.37323943661973,
+      "present": 1,
+      "exact": 14.776156941649903,
+      "raw": 66.80308472964646,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "forum 176px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "56px",
+          "imported": "80px",
+          "ok": false,
+          "fix": "choices.typography.scale.h2.size = 56",
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "18px",
+          "imported": "52px",
+          "ok": false,
+          "fix": "choices.typography.scale.h3.size = 18",
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "avenir-lt-w01_35-light1475496",
+          "imported": "Jost (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"avenir-lt-w01_35-light1475496\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Lead text size",
+          "original": "25px",
+          "imported": "46px",
+          "ok": false,
+          "fix": "choices.typography.scale.lead.size = 25",
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0em, none",
+          "imported": "0em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "8.5px",
+          "imported": "25px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 9",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Bloom",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 176px",
+              "imported": "Jost 176px",
+              "ok": false,
+              "credit": 0.25,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "711px",
+              "imported": "711px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 70
+        },
+        {
+          "index": 1,
+          "heading": "You're Invited",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 118px",
+              "imported": "Jost 118px",
+              "ok": false,
+              "credit": 0.25,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 24px",
+              "imported": "Jost 24px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 33% wide",
+              "imported": "center, 32% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "4.9:1",
+              "imported": "4.9:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "316px",
+              "imported": "550px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 77
+        },
+        {
+          "index": 2,
+          "heading": "If you feel called to :",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 52px",
+              "imported": "Jost 52px",
+              "ok": false,
+              "credit": 0.25,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 57% wide",
+              "imported": "right, 55% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.27:1",
+              "imported": "1.27:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "649px",
+              "imported": "774px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 85
+        },
+        {
+          "index": 3,
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "428px",
+              "imported": "360px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 4,
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 18px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "299px",
+              "imported": "510px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 78
+        },
+        {
+          "index": 5,
+          "heading": "Join the Journey",
+          "importedIndex": 5,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 90px",
+              "imported": "Forum 80px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 28% wide",
+              "imported": "right, 27% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.56:1",
+              "imported": "0.66:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "725px",
+              "imported": "766px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 89
+        },
+        {
+          "index": 6,
+          "importedIndex": 6,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#19100c",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 33% wide",
+              "imported": "center, 100% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1:1",
+              "imported": "2.36:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "609px",
+              "imported": "609px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 59
+        },
+        {
+          "index": 7,
+          "heading": "WHERE YOU'LL be STAYING",
+          "importedIndex": 7,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 64px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "5",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 42% wide",
+              "imported": "center, 89% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.81:1",
+              "imported": "0.86:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1616px",
+              "imported": "11962px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 39
+        },
+        {
+          "index": 8,
+          "importedIndex": 8,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "forum 36px",
+              "imported": "Jost 36px",
+              "ok": false,
+              "credit": 0.25,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#19100c",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "2",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "329px",
+              "imported": "360px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 25
+        },
+        {
+          "index": 9,
+          "importedIndex": 9,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 46px",
+              "imported": "Jost 46px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 32% wide",
+              "imported": "center, 33% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1:1",
+              "imported": "1:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "580px",
+              "imported": "573px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 97
+        },
+        {
+          "index": 10,
+          "importedIndex": 10,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "485px",
+              "imported": "360px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 11,
+          "importedIndex": 11,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff4f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 30px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "567px",
+              "imported": "577px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 75
+        },
+        {
+          "index": 12,
+          "importedIndex": 12,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 22px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#f8f1ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "269px",
+              "imported": "360px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 78
+        },
+        {
+          "index": 13,
+          "heading": "About me",
+          "importedIndex": 13,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 56px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 50% wide",
+              "imported": "right, 43% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.97:1",
+              "imported": "1.02:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "744px",
+              "imported": "702px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 81
+        },
+        {
+          "index": 14,
+          "heading": "Frequently Asked Questions",
+          "importedIndex": 14,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 50px",
+              "imported": "Jost 50px",
+              "ok": false,
+              "credit": 0.25,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 18px",
+              "imported": "Jost 10px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#19100c",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1172px",
+              "imported": "1240px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 44
+        }
+      ],
+      "strict": {
+        "score": 15,
+        "exact": 14.776156941649903,
+        "structure": 71,
+        "checks": 71.37323943661973,
+        "present": 1,
+        "raw": 66.80308472964646
+      },
+      "visual": 0.531
+    },
+    {
+      "path": "/bloom-retreat-may-2024",
+      "original": "https://www.courtneyacamo.com/bloom-retreat-may-2024",
+      "imported": "/bloom-retreat-may-2024 (local preview)",
+      "viewport": 1132,
+      "score": 10,
+      "structure": 57,
+      "checkScore": 57.28260869565218,
+      "present": 1,
+      "exact": 9.74378881987578,
+      "raw": 56.30853435894935,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "forum 176px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "56px",
+          "imported": "80px",
+          "ok": false,
+          "fix": "choices.typography.scale.h2.size = 56",
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "18px",
+          "imported": "42px",
+          "ok": false,
+          "fix": "choices.typography.scale.h3.size = 18",
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "avenir-lt-w01_35-light1475496",
+          "imported": "Jost (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"avenir-lt-w01_35-light1475496\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Lead text size",
+          "original": "25px",
+          "imported": "37px",
+          "ok": false,
+          "fix": "choices.typography.scale.lead.size = 25",
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation: present",
+          "original": "forum 20px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "8.5px",
+          "imported": "23px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 9",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Bloom",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 176px",
+              "imported": "Jost 141px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "711px",
+              "imported": "711px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 60
+        },
+        {
+          "index": 1,
+          "heading": "You're Invited",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 118px",
+              "imported": "Jost 94px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 24px",
+              "imported": "Jost 19px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 48% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "4.9:1",
+              "imported": "4.9:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "316px",
+              "imported": "610px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 50
+        },
+        {
+          "index": 2,
+          "heading": "If you feel called to :",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 52px",
+              "imported": "Jost 42px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 16px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 57% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.86:1",
+              "imported": "1.27:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "649px",
+              "imported": "1172px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 42
+        },
+        {
+          "index": 3,
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "428px",
+              "imported": "360px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 4,
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 18px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "299px",
+              "imported": "738px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 78
+        },
+        {
+          "index": 5,
+          "heading": "Join the Journey",
+          "importedIndex": 5,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 90px",
+              "imported": "Forum 80px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 28% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.38:1",
+              "imported": "0.66:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "725px",
+              "imported": "1542px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 72
+        },
+        {
+          "index": 6,
+          "importedIndex": 6,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 16px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#19100c",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 48% wide",
+              "imported": "center, 100% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1:1",
+              "imported": "0.47:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "609px",
+              "imported": "828px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 25
+        },
+        {
+          "index": 7,
+          "heading": "WHERE YOU'LL be STAYING",
+          "importedIndex": 7,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 64px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 62% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.81:1",
+              "imported": "0.86:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1616px",
+              "imported": "4164px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 56
+        },
+        {
+          "index": 8,
+          "importedIndex": 8,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "forum 36px",
+              "imported": "Jost 29px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#19100c",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "329px",
+              "imported": "360px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 50
+        },
+        {
+          "index": 9,
+          "importedIndex": 9,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 46px",
+              "imported": "Jost 37px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 47% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1:1",
+              "imported": "1:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "580px",
+              "imported": "1033px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 60
+        },
+        {
+          "index": 10,
+          "importedIndex": 10,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "485px",
+              "imported": "360px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 11,
+          "importedIndex": 11,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff4f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 30px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "567px",
+              "imported": "624px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 75
+        },
+        {
+          "index": 12,
+          "importedIndex": 12,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 22px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#f8f1ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "269px",
+              "imported": "443px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 62
+        },
+        {
+          "index": 13,
+          "heading": "About me",
+          "importedIndex": 13,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 56px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 50% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.66:1",
+              "imported": "1.02:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "744px",
+              "imported": "1349px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 56
+        },
+        {
+          "index": 14,
+          "heading": "Frequently Asked Questions",
+          "importedIndex": 14,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 50px",
+              "imported": "Jost 40px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 18px",
+              "imported": "Jost 14px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1172px",
+              "imported": "1172px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 50
+        }
+      ],
+      "strict": {
+        "score": 4,
+        "exact": 3.532608695652174,
+        "structure": 40,
+        "checks": 39.891304347826086,
+        "present": 1,
+        "raw": 43.26505609807978
+      },
+      "corrections": [
+        "Section 1: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 2: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 3: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 5: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 6: columns counted on screen only (3 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 7: columns counted on screen only (3 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 8: columns counted on screen only (5 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 9: columns counted on screen only (3 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 10: columns counted on screen only (3 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 13: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 14: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 15: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column)."
+      ],
+      "visual": 0.534
+    },
+    {
+      "path": "/challenges",
+      "original": "https://www.courtneyacamo.com/challenges",
+      "imported": "/challenges (local preview)",
+      "viewport": 1440,
+      "score": 10,
+      "structure": 57,
+      "checkScore": 57.142857142857146,
+      "present": 1,
+      "exact": 9.693877551020412,
+      "raw": 53.90361080899997,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "32px",
+          "imported": "80px",
+          "ok": false,
+          "fix": "choices.typography.scale.h1.size = 32",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0em, none",
+          "imported": "0em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "958px",
+          "imported": "960px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "156px",
+          "imported": "25px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 156",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Sound Medicine Course",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 32px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "4",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 100% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1062px",
+              "imported": "228px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 25
+        }
+      ],
+      "strict": {
+        "score": 10,
+        "exact": 9.693877551020412,
+        "structure": 57,
+        "checks": 57.142857142857146,
+        "present": 1,
+        "raw": 53.90361080899997
+      },
+      "visual": 0.442
+    },
+    {
+      "path": "/challenges",
+      "original": "https://www.courtneyacamo.com/challenges",
+      "imported": "/challenges (local preview)",
+      "viewport": 1132,
+      "score": 6,
+      "structure": 29,
+      "checkScore": 29.41176470588235,
+      "present": 1,
+      "exact": 5.769290204603891,
+      "raw": 38.405004121483515,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "32px",
+          "imported": "40.9px",
+          "ok": false,
+          "fix": "choices.typography.scale.h1.size = 32",
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Navigation: present",
+          "original": "forum 20px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "1110px",
+          "imported": "342px",
+          "ok": false,
+          "fix": "choices.layout.contentWidth = 1110",
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "156px",
+          "imported": "23px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 156",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Sound Medicine Course",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 32px",
+              "imported": "Forum 40.9px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 100% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1062px",
+              "imported": "222px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 25
+        }
+      ],
+      "strict": {
+        "score": 6,
+        "exact": 5.769290204603891,
+        "structure": 29,
+        "checks": 29.41176470588235,
+        "present": 1,
+        "raw": 38.405004121483515
+      },
+      "visual": 0.654
+    },
+    {
+      "path": "/coming-soon-02",
+      "original": "https://www.courtneyacamo.com/coming-soon-02",
+      "imported": "/coming-soon-02 (local preview)",
+      "viewport": 1440,
+      "score": 8,
+      "structure": 52,
+      "checkScore": 51.964285714285715,
+      "present": 1,
+      "exact": 7.844387755102043,
+      "raw": 48.45263259620713,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "56px",
+          "imported": "80px",
+          "ok": false,
+          "fix": "choices.typography.scale.h1.size = 56",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "avenir-lt-w01_35-light1475496",
+          "imported": "Jost (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"avenir-lt-w01_35-light1475496\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "16px",
+          "imported": "20px",
+          "ok": false,
+          "fix": "choices.typography.scale.body.size = 16",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0em, none",
+          "imported": "0em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "63px",
+          "imported": "50px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Medicine of the voice song circle",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#19100c",
+              "ok": false,
+              "fix": "Give the section its own background color (style.background = { type: \"color\", color: \"#ffffff\" }).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 56px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 16px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#f8f1ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 34% wide",
+              "imported": "center, 100% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.62:1",
+              "imported": "1.68:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "911px",
+              "imported": "858px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 25
+        }
+      ],
+      "strict": {
+        "score": 8,
+        "exact": 7.844387755102043,
+        "structure": 52,
+        "checks": 51.964285714285715,
+        "present": 1,
+        "raw": 48.45263259620713
+      },
+      "visual": 0.379
+    },
+    {
+      "path": "/coming-soon-02",
+      "original": "https://www.courtneyacamo.com/coming-soon-02",
+      "imported": "/coming-soon-02 (local preview)",
+      "viewport": 1132,
+      "score": 1,
+      "structure": 27,
+      "checkScore": 27.291666666666668,
+      "present": 1,
+      "exact": 1.4535288637623707,
+      "raw": 34.872837988693064,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "56px",
+          "imported": "40.9px",
+          "ok": false,
+          "fix": "choices.typography.scale.h1.size = 56",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "avenir-lt-w01_35-light1475496",
+          "imported": "Jost (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"avenir-lt-w01_35-light1475496\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "16px",
+          "imported": "20px",
+          "ok": false,
+          "fix": "choices.typography.scale.body.size = 16",
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Navigation: present",
+          "original": "forum 20px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "63px",
+          "imported": "46px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 63",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Medicine of the voice song circle",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#19100c",
+              "ok": false,
+              "fix": "Give the section its own background color (style.background = { type: \"color\", color: \"#ffffff\" }).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 56px",
+              "imported": "Forum 40.9px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 16px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#f8f1ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 50% wide",
+              "imported": "center, 100% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.62:1",
+              "imported": "0.33:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "911px",
+              "imported": "1168px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 8
+        }
+      ],
+      "strict": {
+        "score": 1,
+        "exact": 1.4535288637623707,
+        "structure": 27,
+        "checks": 27.291666666666668,
+        "present": 1,
+        "raw": 34.872837988693064
+      },
+      "visual": 0.576
+    },
+    {
+      "path": "/contact-me",
+      "original": "https://www.courtneyacamo.com/contact-me",
+      "imported": "/contact-me (local preview)",
+      "viewport": 1440,
+      "score": 23,
+      "structure": 94,
+      "checkScore": 94.11764705882354,
+      "present": 1,
+      "exact": 22.899159663865554,
+      "raw": 82.0406124320314,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "106px",
+          "imported": "109px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0em, none",
+          "imported": "0em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "98px",
+          "imported": "103.5px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Get in touch",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 106px",
+              "imported": "Forum 109px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 89% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "740px",
+              "imported": "956px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 83
+        }
+      ],
+      "strict": {
+        "score": 19,
+        "exact": 18.697478991596643,
+        "structure": 82,
+        "checks": 82.3529411764706,
+        "present": 1,
+        "raw": 73.21708302026668
+      },
+      "corrections": [
+        "Section 1: columns counted on screen only (3 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column)."
+      ],
+      "visual": 0.458
+    },
+    {
+      "path": "/contact-me",
+      "original": "https://www.courtneyacamo.com/contact-me",
+      "imported": "/contact-me (local preview)",
+      "viewport": 1132,
+      "score": 34,
+      "structure": 77,
+      "checkScore": 76.92307692307692,
+      "present": 1,
+      "exact": 33.52147462427952,
+      "raw": 73.95679262221336,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "106px",
+          "imported": "109px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Navigation: present",
+          "original": "forum 20px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "98px",
+          "imported": "76px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Get in touch",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 106px",
+              "imported": "Forum 109px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 100% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "740px",
+              "imported": "1048px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        }
+      ],
+      "strict": {
+        "score": 28,
+        "exact": 28.026969129774027,
+        "structure": 62,
+        "checks": 61.53846153846154,
+        "present": 1,
+        "raw": 62.418331083751816
+      },
+      "corrections": [
+        "Section 1: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column)."
+      ],
+      "visual": 0.651
+    },
+    {
+      "path": "/copy-of-bloom-retreat-may-2024",
+      "original": "https://www.courtneyacamo.com/copy-of-bloom-retreat-may-2024",
+      "imported": "/copy-of-bloom-retreat-may-2024 (local preview)",
+      "viewport": 1440,
+      "score": 12,
+      "structure": 63,
+      "checkScore": 62.83088235294119,
+      "present": 1,
+      "exact": 11.725315126050424,
+      "raw": 60.63967138083251,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "176px",
+          "imported": "80px",
+          "ok": false,
+          "fix": "choices.typography.scale.h1.size = 176",
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "64px",
+          "imported": "80px",
+          "ok": false,
+          "fix": "choices.typography.scale.h2.size = 64",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "avenir-lt-w01_35-light1475496",
+          "imported": "Jost (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"avenir-lt-w01_35-light1475496\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0em, none",
+          "imported": "0em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "8.5px",
+          "imported": "25px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 9",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Bloom",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 176px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "711px",
+              "imported": "711px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 60
+        },
+        {
+          "index": 1,
+          "heading": "You're Invited",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 118px",
+              "imported": "Forum 130px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 24px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 33% wide",
+              "imported": "center, 89% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "4.9:1",
+              "imported": "2.4:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "316px",
+              "imported": "946px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 42
+        },
+        {
+          "index": 2,
+          "heading": "If you feel called to :",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 52px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 57% wide",
+              "imported": "right, 43% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.27:1",
+              "imported": "0.75:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "649px",
+              "imported": "1253px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 64
+        },
+        {
+          "index": 3,
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "428px",
+              "imported": "360px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 4,
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 18px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "299px",
+              "imported": "510px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 78
+        },
+        {
+          "index": 5,
+          "heading": "Join the Journey",
+          "importedIndex": 5,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 90px",
+              "imported": "Forum 80px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 28% wide",
+              "imported": "right, 27% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.56:1",
+              "imported": "0.66:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "725px",
+              "imported": "766px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 89
+        },
+        {
+          "index": 6,
+          "importedIndex": 6,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#f8f1ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "2",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 33% wide",
+              "imported": "center, 100% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1:1",
+              "imported": "0.89:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "609px",
+              "imported": "1611px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 34
+        },
+        {
+          "index": 7,
+          "heading": "WHERE YOU'LL be STAYING",
+          "importedIndex": 7,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 64px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "5",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 42% wide",
+              "imported": "center, 89% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.81:1",
+              "imported": "0.86:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1616px",
+              "imported": "11962px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 39
+        },
+        {
+          "index": 8,
+          "importedIndex": 8,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "forum 36px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#f8f1ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "2",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "329px",
+              "imported": "360px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 17
+        },
+        {
+          "index": 9,
+          "importedIndex": 9,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 46px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 32% wide",
+              "imported": "center, 89% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1:1",
+              "imported": "1:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "580px",
+              "imported": "1861px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 40
+        },
+        {
+          "index": 10,
+          "importedIndex": 10,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "485px",
+              "imported": "360px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 11,
+          "importedIndex": 11,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff4f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 30px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "567px",
+              "imported": "577px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 75
+        },
+        {
+          "index": 12,
+          "importedIndex": 12,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 22px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#f8f1ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "269px",
+              "imported": "360px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 78
+        },
+        {
+          "index": 13,
+          "heading": "About me",
+          "importedIndex": 13,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 56px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 50% wide",
+              "imported": "right, 43% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.97:1",
+              "imported": "1.02:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "744px",
+              "imported": "702px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 81
+        },
+        {
+          "index": 14,
+          "importedIndex": 14,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1159px",
+              "imported": "1159px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        }
+      ],
+      "strict": {
+        "score": 12,
+        "exact": 11.725315126050424,
+        "structure": 63,
+        "checks": 62.83088235294119,
+        "present": 1,
+        "raw": 60.63967138083251
+      },
+      "visual": 0.541
+    },
+    {
+      "path": "/copy-of-bloom-retreat-may-2024",
+      "original": "https://www.courtneyacamo.com/copy-of-bloom-retreat-may-2024",
+      "imported": "/copy-of-bloom-retreat-may-2024 (local preview)",
+      "viewport": 1132,
+      "score": 11,
+      "structure": 62,
+      "checkScore": 61.70454545454547,
+      "present": 1,
+      "exact": 11.323051948051955,
+      "raw": 59.516092815999215,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "forum",
+          "imported": "Forum",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "176px",
+          "imported": "40.9px",
+          "ok": false,
+          "fix": "choices.typography.scale.h1.size = 176",
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "64px",
+          "imported": "80px",
+          "ok": false,
+          "fix": "choices.typography.scale.h2.size = 64",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "avenir-lt-w01_35-light1475496",
+          "imported": "Jost (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"avenir-lt-w01_35-light1475496\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Navigation: present",
+          "original": "forum 20px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "8.5px",
+          "imported": "23px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 9",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Bloom",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 176px",
+              "imported": "Forum 40.9px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "711px",
+              "imported": "711px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 60
+        },
+        {
+          "index": 1,
+          "heading": "You're Invited",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 118px",
+              "imported": "Forum 54.6px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 24px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 48% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "4.9:1",
+              "imported": "2.4:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "316px",
+              "imported": "520px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 42
+        },
+        {
+          "index": 2,
+          "heading": "If you feel called to :",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 52px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 57% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.86:1",
+              "imported": "0.75:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "649px",
+              "imported": "1980px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 64
+        },
+        {
+          "index": 3,
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "428px",
+              "imported": "360px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 4,
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 18px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "299px",
+              "imported": "738px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 78
+        },
+        {
+          "index": 5,
+          "heading": "Join the Journey",
+          "importedIndex": 5,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 90px",
+              "imported": "Forum 80px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 28% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.38:1",
+              "imported": "0.66:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "725px",
+              "imported": "1542px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 72
+        },
+        {
+          "index": 6,
+          "importedIndex": 6,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#f8f1ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 48% wide",
+              "imported": "center, 100% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1:1",
+              "imported": "0.45:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "609px",
+              "imported": "864px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 46
+        },
+        {
+          "index": 7,
+          "heading": "WHERE YOU'LL be STAYING",
+          "importedIndex": 7,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 64px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 62% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.81:1",
+              "imported": "0.86:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1616px",
+              "imported": "4164px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 56
+        },
+        {
+          "index": 8,
+          "importedIndex": 8,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "forum 36px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#f8f1ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "329px",
+              "imported": "360px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 50
+        },
+        {
+          "index": 9,
+          "importedIndex": 9,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 46px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 47% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1:1",
+              "imported": "1:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "580px",
+              "imported": "905px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 60
+        },
+        {
+          "index": 10,
+          "importedIndex": 10,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "485px",
+              "imported": "360px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 11,
+          "importedIndex": 11,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff4f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 30px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "567px",
+              "imported": "624px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 75
+        },
+        {
+          "index": 12,
+          "importedIndex": 12,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 22px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#f8f1ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "269px",
+              "imported": "443px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 62
+        },
+        {
+          "index": 13,
+          "heading": "About me",
+          "importedIndex": 13,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fff9f5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "forum 56px",
+              "imported": "Forum 80px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "avenir-lt-w01_35-light1475496 20px",
+              "imported": "Jost 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 50% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.66:1",
+              "imported": "1.02:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "744px",
+              "imported": "1349px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 56
+        },
+        {
+          "index": 14,
+          "importedIndex": 14,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1159px",
+              "imported": "1159px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        }
+      ],
+      "strict": {
+        "score": 5,
+        "exact": 5.370670995670997,
+        "structure": 45,
+        "checks": 45.03787878787879,
+        "present": 1,
+        "raw": 47.01609281599921
+      },
+      "corrections": [
+        "Section 1: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 2: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 3: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 5: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 6: columns counted on screen only (3 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 7: columns counted on screen only (3 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 8: columns counted on screen only (5 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 9: columns counted on screen only (3 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 10: columns counted on screen only (3 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 13: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 14: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column)."
+      ],
+      "visual": 0.53
+    }
+  ]
+}

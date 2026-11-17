@@ -1,0 +1,183 @@
+{
+  "id": "pg_rjy815ch93",
+  "title": "Medicine of the voice song circle",
+  "slug": "coming-soon-02",
+  "seo": {
+    "title": "Song Circle - April 18th",
+    "image": "media/2026/11/2a148f-04d1214c7fc04707a73329fcee0e252c--9gr3.jpg"
+  },
+  "hidden": true,
+  "sections": [
+    {
+      "id": "sec_qe0yv2p1fy",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/2a148f-78d4dd22afc04dbb8911986f50bc1817--g79w.png",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_fwyzs7s5mh",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Medicine of the voice ",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "song circle",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        },
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You're invited to a medicine of the voice song circle. We will be joining our hearts, prayers, and voices to nourish our aliveness through sound. I will be sharing "
+                    },
+                    {
+                      "type": "text",
+                      "text": "hymns and medicine songs from around the world to co-create a healing field for our minds, bodies, and world.",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The songs shared are dedicated "
+                    },
+                    {
+                      "type": "text",
+                      "text": "to supporting you in strengthening your connection to love and your ability to heal, uplift, and empower yourself through sound",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Whether you're an experienced vocalist or a first-time singer, this circle is a welcoming sanctuary where your voice is celebrated and cherished."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "📅 Date: April 18th",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "🕒 Time: 3pm PST, 12pm HI, 6pm EST",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "📍 Location: Zoom",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I hope you can join us. It will be a heartwarming, love-filled, and joyous time being together in connection with our voices, hearts, and prayers!"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_yyx802br0d",
+          "type": "newsletter",
+          "v": 1,
+          "fields": {
+            "askName": false,
+            "placeholder": "Enter your email here*",
+            "buttonLabel": "Let's sing!",
+            "successMessage": "Almost there — check your inbox to confirm your subscription."
+          },
+          "variant": "stacked"
+        }
+      ]
+    }
+  ]
+}

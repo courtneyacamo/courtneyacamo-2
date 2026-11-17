@@ -1,0 +1,44 @@
+{
+  "name": "imported-bloom-retreat-may-2024-2",
+  "label": "You're Invited",
+  "description": "Recreated from the original site's layout (measured in a browser): every word, picture and link is editable.",
+  "version": 1,
+  "category": "imported",
+  "fields": {
+    "text1": {
+      "kind": "text",
+      "label": "Heading",
+      "maxLength": 300
+    },
+    "image2": {
+      "kind": "image",
+      "label": "Picture"
+    },
+    "text3": {
+      "kind": "text",
+      "label": "Paragraph “To join a constellation…”",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "text4": {
+      "kind": "text",
+      "label": "Paragraph “​​”",
+      "maxLength": 1500,
+      "multiline": true
+    }
+  },
+  "defaults": {
+    "text1": "You're Invited",
+    "image2": {
+      "src": "https://static.wixstatic.com/media/2a148f_717cabf2ba464d7dab9f9aa3aeb8efa0~mv2.png/v1/fill/w_470,h_96,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/white%20splash%202_edited.png",
+      "alt": ""
+    },
+    "text3": "To join a constellation of soul sisters in the beautiful island of Kauai. Come fill up your cup, tap into your creativity, and let the beauty of your brilliance shine through.",
+    "text4": "​​"
+  },
+  "template": "<div class=\"gx\">\n  <h2 class=\"gx__i gx__i1\">{{text1}}</h2>\n  <div class=\"gx__i gx__i2 gx__img\">{{image image2 sizes=\"(max-width: 767px) 100vw, 33vw\"}}</div>\n  <p class=\"gx__i gx__i3\">{{text3}}</p>\n  <p class=\"gx__i gx__i4\">{{text4}}</p>\n</div>",
+  "css": ":scope { width: min(100%, 647px); margin-inline: auto; }\n.gx { display: grid; grid-template-columns: repeat(24, minmax(0, 1fr)); grid-auto-rows: minmax(8px, auto); column-gap: 0; }\n.gx__i { position: relative; z-index: 1; margin: 0; min-width: 0; overflow-wrap: break-word; }\n.gx__i p { margin: 0; }\n.gx__p { z-index: 0; }\n.gx__img picture, .gx__img img { display: block; width: 100%; height: 100%; object-fit: cover; }\n.gx__i1 { grid-column: 1 / span 24; grid-row: 1 / span 22; font-family: var(--os-font-label); font-size: 118px; font-weight: 400; line-height: 1.4; letter-spacing: 0em; text-align: center; color: var(--os-color-text); }\n.gx__i2 { grid-column: 4 / span 17; grid-row: 8 / span 12; aspect-ratio: 470 / 96; }\n.gx__i3 { grid-column: 1 / span 23; grid-row: 23 / span 11; font-family: var(--os-font-body); font-size: 24px; font-weight: 400; line-height: 1.2; letter-spacing: 0em; text-align: center; color: var(--os-color-text); }\n.gx__i4 { grid-column: 1 / span 23; grid-row: 34 / span 4; font-family: var(--os-font-body); font-size: 24px; font-weight: 400; line-height: 1.2; letter-spacing: 0em; text-align: center; color: var(--os-color-text); }\n@media (max-width: 767px) {\n  .gx { display: flex; flex-direction: column; gap: var(--os-space-sm); }\n  .gx__i1 { font-family: var(--os-font-label); font-size: 94px; }\n  .gx__i3 { font-family: var(--os-font-body); font-size: 19px; }\n  .gx__i4 { font-family: var(--os-font-body); font-size: 19px; }\n}",
+  "section": {
+    "width": "wide"
+  }
+}

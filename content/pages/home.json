@@ -1,25 +1,28 @@
 {
-  "$schema": "https://schema.openspace.host/v1/page.json",
-  "id": "pg_nk4psng0wv",
+  "id": "pg_azf2c40xxd",
   "title": "Home",
   "slug": "",
   "seo": {
-    "title": null,
-    "description": "Courtneyacamo is being set up.",
-    "noindex": true
+    "title": "Spirituality and Creative Development",
+    "description": "Courtney’s intuitively guided approach to mentorship weaves modern therapy with ancient wisdom traditions, shamanic practices, and expressive arts. Serving courageous and willing souls that are ready to ignite a life of love, freedom, joy, and service. Courtneyacamo.com",
+    "image": "media/2026/11/2a148f-04d1214c7fc04707a73329fcee0e252c--9gr3.jpg"
   },
   "sections": [
     {
-      "id": "sec_jfyk7dfdye",
+      "id": "sec_g58z65em15",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
+            4,
+            8
+          ],
+          "m": [
             12
           ]
         },
         "align": "center",
-        "width": "narrow"
+        "gap": "2xl"
       },
       "style": {
         "colorTheme": "light",
@@ -27,13 +30,44 @@
           "d": "xl",
           "m": "lg"
         },
-        "minHeight": {
-          "d": "70vh"
+        "background": {
+          "type": "color",
+          "color": "#ffffff"
         }
       },
       "blocks": [
         {
-          "id": "blk_03jpyxp6bt",
+          "id": "blk_tv0wsn7j38",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-108c13f3285244c2950edbe2ce8bba8a--jq81.jpg",
+              "alt": "AEnB2Urdf6-kuAWmrq-bXW2lvGfX-6E-htWHTO0IfPpiwG0u7IcXjKy4UOh-ntbd1vs03x6saPszRGCwLF9vawVnUz",
+              "width": 2206,
+              "height": 2000,
+              "mediaId": "med_jq810vr9cs"
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 0,
+          "variant": "default"
+        },
+        {
+          "id": "blk_0cfmzzma0z",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "AWAKEN THE CURRENTS OF CREATION",
+            "level": "h1",
+            "size": "h2"
+          },
+          "variant": "plain",
+          "column": 0
+        },
+        {
+          "id": "blk_mp3bwppna9",
           "type": "text",
           "v": 1,
           "fields": {
@@ -43,21 +77,185 @@
                 {
                   "type": "heading",
                   "attrs": {
-                    "level": 1
+                    "level": 2
                   },
                   "content": [
                     {
                       "type": "text",
-                      "text": "Courtneyacamo"
+                      "text": "within"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "YOU",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
                     }
                   ]
                 }
               ]
             }
-          }
+          },
+          "column": 0,
+          "variant": "default"
         },
         {
-          "id": "blk_t07q7khk0b",
+          "id": "blk_n2k14x3bhx",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Learn more",
+            "link": {
+              "type": "page",
+              "page": "pg_z09bcz6592"
+            },
+            "role": "primary"
+          },
+          "column": 0,
+          "variant": "default"
+        },
+        {
+          "id": "blk_dr923q6xqf",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-4a677acf4a994fb49f9fd8ca30826cb7--mqwp.jpg",
+              "alt": "IMG_5866.JPG",
+              "width": 1800,
+              "height": 2400,
+              "mediaId": "med_mqwpjvj4x7",
+              "focal": [
+                0.5,
+                0
+              ]
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 1,
+          "variant": "default"
+        }
+      ],
+      "preset": "hero/menu-led@1",
+      "anchor": "comp-lpf1jvgq"
+    },
+    {
+      "id": "sec_dky8pev7v0",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        },
+        "align": "center"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_e21kqb82bb",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/11062b-778064cdb3784a2e87e1cd27ae6dc6fe--a53j.jpg",
+              "alt": "White Background",
+              "width": 2400,
+              "height": 1350,
+              "mediaId": "med_a53j4bzyje"
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_sm748a391g",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Courtney’s intuitively guided approach to mentorship weaves modern therapy with ancient wisdom traditions, shamanic practices, and expressive arts.",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lpfdxepn"
+    },
+    {
+      "id": "sec_9jyawaac5r",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/2a148f-a26d2f3f9f5c4c1c8af0888007d4e2c4--9yd0.jpg",
+          "focal": [
+            0.5,
+            0
+          ],
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "881px",
+          "m": "881px"
+        },
+        "padding": {
+          "d": "none",
+          "m": "none"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_gw1v1r8esj",
           "type": "text",
           "v": 1,
           "fields": {
@@ -69,7 +267,629 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "This site is being set up. Please check back soon."
+                      "text": "​",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I’m Courtney Acamo, an intuitive healer, embodiment guide, ceremonialist, and sound priestess, fueled with a passion for the healing arts and women’s empowerment. I've spent the last decade traveling the globe, learning transformational tools, and studying healing modalities in diverse ranges of teachings and ancient wisdom traditions. For the last seven years, I have been cultivating a private healing practice that guides and empowers courageous souls through their unique evolutionary journey of healing, purification, and awakening."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Whether through ceremonies, retreats, individual mentorships, or healing sessions."
+                    },
+                    {
+                      "type": "text",
+                      "text": " I create powerful transformational containers for those",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "ready to awaken their creativity, heal from past traumas, reconnect with their innocence and joy, and remember their union with love and all of life.",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I'm here as an ally in your liberation, leadership, and the embodiment of all that you are.",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        },
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "In Love and Devotion,",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Courtney"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hi, it’s nice to meet you.",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_wa5th09h2v",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-6cc702a8069c4a16b4e9c1b8b3887bad--fkxt.png",
+              "alt": "",
+              "width": 800,
+              "height": 800,
+              "mediaId": "med_fkxty0szg8"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        }
+      ],
+      "anchor": "comp-lpq25xkp"
+    },
+    {
+      "id": "sec_h83sxn6tpc",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            8,
+            4
+          ],
+          "m": [
+            12
+          ]
+        },
+        "align": "center"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_dr767b9am9",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-a3749b4457b14e449843768fef1dd4aa--jt27.jpg",
+              "alt": "",
+              "width": 2400,
+              "height": 1600,
+              "mediaId": "med_jt27bc8gkz",
+              "focal": [
+                0.5,
+                1
+              ]
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_v8e41ax2rb",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lets work"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 1
+        },
+        {
+          "id": "blk_nsrm3nprxx",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-d93b18648a7745fe8b6a4bb1f25915dd--zr1r.png",
+              "alt": "",
+              "width": 100,
+              "height": 40,
+              "mediaId": "med_zr1r80e5eq"
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 1
+        },
+        {
+          "id": "blk_tj8r35fn7v",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Together"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 1
+        },
+        {
+          "id": "blk_kmq3dn53wy",
+          "type": "gallery",
+          "v": 1,
+          "fields": {
+            "images": [
+              {
+                "image": {
+                  "src": "media/2026/11/2a148f-ea239611680e4525a21a211709f1b852--m58j.png",
+                  "alt": "",
+                  "width": 300,
+                  "height": 300,
+                  "mediaId": "med_m58jmhsvqt"
+                }
+              },
+              {
+                "image": {
+                  "src": "media/2026/11/2a148f-621524964e9b45e385fccac633f2831b--4khd.png",
+                  "alt": "",
+                  "width": 500,
+                  "height": 500,
+                  "mediaId": "med_4khd16mzdf"
+                }
+              },
+              {
+                "image": {
+                  "src": "media/2026/11/2a148f-621524964e9b45e385fccac633f2831b--4khd.png",
+                  "alt": "",
+                  "width": 500,
+                  "height": 500,
+                  "mediaId": "med_4khd16mzdf"
+                }
+              }
+            ],
+            "aspect": "1:1",
+            "columns": "3",
+            "lightbox": true,
+            "showCaptions": false
+          },
+          "variant": "grid",
+          "column": 1
+        },
+        {
+          "id": "blk_n1mq24esbk",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "These sessions are designed to bring about deep healing, clarity, liberation, and inner awakening.",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          },
+          "column": 1
+        },
+        {
+          "id": "blk_d98pezqyyw",
+          "type": "gallery",
+          "v": 1,
+          "fields": {
+            "images": [
+              {
+                "image": {
+                  "src": "media/2026/11/2a148f-521b8065c8304978994478ea08559abc--jqkw.png",
+                  "alt": "",
+                  "width": 500,
+                  "height": 500,
+                  "mediaId": "med_jqkwmskrdw"
+                }
+              },
+              {
+                "image": {
+                  "src": "media/2026/11/2a148f-cebbe0ce53994598acfe6c87b5241a2f--c7xb.png",
+                  "alt": "",
+                  "width": 500,
+                  "height": 500,
+                  "mediaId": "med_c7xbmcyh8e"
+                }
+              },
+              {
+                "image": {
+                  "src": "media/2026/11/2a148f-cebbe0ce53994598acfe6c87b5241a2f--c7xb.png",
+                  "alt": "",
+                  "width": 500,
+                  "height": 500,
+                  "mediaId": "med_c7xbmcyh8e"
+                }
+              }
+            ],
+            "aspect": "1:1",
+            "columns": "3",
+            "lightbox": true,
+            "showCaptions": false
+          },
+          "variant": "grid",
+          "column": 1
+        },
+        {
+          "id": "blk_ybrmxagjp0",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We will customize your transformational retreat, creating a beautiful immersive experience to reset, restore, realign, and rejuvenate your spirit so you can return to your life with more presence, passion, and peace.",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          },
+          "column": 1
+        },
+        {
+          "id": "blk_8r59gdqp6x",
+          "type": "gallery",
+          "v": 1,
+          "fields": {
+            "images": [
+              {
+                "image": {
+                  "src": "media/2026/11/2a148f-6260c5564cf2440389ce085b2a77327f--my7d.png",
+                  "alt": "",
+                  "width": 300,
+                  "height": 300,
+                  "mediaId": "med_my7d171qpb"
+                }
+              },
+              {
+                "image": {
+                  "src": "media/2026/11/2a148f-70eab12fac37404d88eb59847c07059b--ey75.png",
+                  "alt": "",
+                  "width": 500,
+                  "height": 500,
+                  "mediaId": "med_ey759edps2"
+                }
+              },
+              {
+                "image": {
+                  "src": "media/2026/11/2a148f-70eab12fac37404d88eb59847c07059b--ey75.png",
+                  "alt": "",
+                  "width": 500,
+                  "height": 500,
+                  "mediaId": "med_ey759edps2"
+                }
+              }
+            ],
+            "aspect": "1:1",
+            "columns": "3",
+            "lightbox": true,
+            "showCaptions": false
+          },
+          "variant": "grid",
+          "column": 1
+        },
+        {
+          "id": "blk_davnhja3e5",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Through a variety of vocal techniques and guided processes, these sessions help you feel more empowered to explore the voice as an instrument for healing, accessing greater fulfillment, and freedom of expression.",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lpf3uxmq"
+    },
+    {
+      "id": "sec_c7tdcds1p8",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_xwr5xar6ey",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-d93b18648a7745fe8b6a4bb1f25915dd--zr1r.png",
+              "alt": "",
+              "width": 100,
+              "height": 40,
+              "mediaId": "med_zr1r80e5eq"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_w5yg4382q7",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Client Love"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_n2g6jgzemw",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-59ecfe6fac654e68acc80fa10d71220e--sn6x.png",
+              "alt": "",
+              "width": 100,
+              "height": 100,
+              "mediaId": "med_sn6xe2ypny"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_4bk9mty3yp",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-f51cbe0173f14d36835fa3c50f66d5fa--2hqy.png",
+              "alt": "",
+              "width": 800,
+              "height": 600,
+              "mediaId": "med_2hqye850ve"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_x49hr373b0",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "“ A friend of mine described Courtney as an earth angel, and after doing an immersion with her, I feel this is so TRUE. She is a soul steward, a priestess sister, and a divine mirror to reflect your light back to you and offer the practical tools for diving in deeper and shining even brighter. If you are looking to up-level your business, spiritual practice, sensuality, your at-homeness in your body, or feel more empowered on the next steps of your path, Courtneys is your girl. “"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Dani Frederick"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "- Songstress, Divine Feminine Mystic",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        },
+                        {
+                          "type": "italic"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -77,7 +897,9 @@
             }
           }
         }
-      ]
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "comp-lpv2986y"
     }
   ]
 }

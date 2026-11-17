@@ -1,17 +1,124 @@
 {
-  "$schema": "https://schema.openspace.host/v1/styles.json",
   "choices": {
     "palette": {
-      "brand": "oklch(0.45 0.05 250)",
+      "brand": "#9f2747",
       "neutral": "warm",
       "contrast": "standard",
-      "source": "curated"
+      "source": "brand"
     },
-    "pairing": "fraunces-hanken",
+    "pairing": "bricolage-geist",
     "density": "comfortable",
     "shape": "soft",
     "buttons": "solid",
     "motion": "subtle",
-    "imageTreatment": "none"
+    "imageTreatment": "none",
+    "typography": {
+      "heading": {
+        "family": "Forum",
+        "category": "serif",
+        "weights": [
+          400
+        ]
+      },
+      "body": {
+        "family": "Jost",
+        "category": "sans-serif",
+        "weights": [
+          400,
+          600
+        ]
+      },
+      "scale": {
+        "h1": {
+          "size": 80,
+          "sizeMobile": 80,
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "case": "uppercase",
+          "weight": 400
+        },
+        "h2": {
+          "size": 80,
+          "sizeMobile": 80,
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "case": "none",
+          "weight": 400
+        },
+        "h3": {
+          "size": 109,
+          "sizeMobile": 109,
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "case": "none",
+          "weight": 400,
+          "font": "heading"
+        },
+        "body": {
+          "size": 20,
+          "sizeMobile": 20,
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "case": "none"
+        },
+        "h4": {
+          "size": 30.3,
+          "lineHeight": 1.23,
+          "letterSpacing": 0,
+          "case": "none",
+          "font": "heading",
+          "weight": 400
+        },
+        "display": {
+          "size": 130,
+          "sizeMobile": 130,
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "case": "none",
+          "weight": 400,
+          "font": "heading"
+        },
+        "small": {
+          "size": 18,
+          "sizeMobile": 18,
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "case": "none"
+        },
+        "nav": {
+          "size": 20,
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "case": "none",
+          "weight": 400,
+          "font": "heading"
+        }
+      }
+    },
+    "layout": {
+      "sectionPadding": 50,
+      "sectionPaddingMobile": 46,
+      "narrowWidth": 960
+    }
+  },
+  "overrides": {
+    "color": {
+      "light": {
+        "text": {
+          "$type": "color",
+          "$value": "#000000"
+        },
+        "heading": {
+          "$type": "color",
+          "$value": "#000000"
+        }
+      },
+      "light-accent": {
+        "text": {
+          "$type": "color",
+          "$value": "#000000"
+        }
+      }
+    }
   }
 }

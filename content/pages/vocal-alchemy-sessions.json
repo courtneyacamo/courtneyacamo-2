@@ -1,0 +1,1194 @@
+{
+  "id": "pg_rcc4ea8mw5",
+  "title": "Vocal Alchemy Sessions",
+  "slug": "vocal-alchemy-sessions",
+  "seo": {
+    "description": "Are you desiring to feel more comfortable, confident, and free in your authentic expression?In these sessions you will be held and guided to discover and amplify the healing power of your voice. I weave a variety of practices to support your liberation and intentions, whether it's a cathartic release process, vocal ex…",
+    "image": "media/2026/11/2a148f-04d1214c7fc04707a73329fcee0e252c--9gr3.jpg"
+  },
+  "sections": [
+    {
+      "id": "sec_dm62d6yvxm",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/2a148f-05ce94dee3a0439ca30c7a38d5cd9ad1--ncer.jpg",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.45
+          }
+        },
+        "minHeight": {
+          "d": "88vh",
+          "m": "70svh"
+        },
+        "padding": {
+          "d": "3xl",
+          "m": "2xl"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_hvdac86c6n",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Vocal Alchemly",
+            "level": "h1",
+            "size": "auto"
+          },
+          "variant": "plain",
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        },
+        {
+          "id": "blk_mysde0km8a",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "BOOK A SESSION",
+            "link": {
+              "type": "url",
+              "url": "https://calendly.com/follow-your-blisten/vocalalchemy"
+            },
+            "role": "primary"
+          },
+          "variant": "default",
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "hero/full-bleed-photo@1",
+      "anchor": "comp-lq36amt8"
+    },
+    {
+      "id": "sec_wq4mrkj7my",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/11062b-b111f266bcec4c54bb9fcd2d7d4e4a8f--w32m.jpg",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_2h4jjvje66",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "“The act of freeing the voice has an alchemical influence on emotions, allowing us to approach fear, sorrow, or any other painful emotions as musical moods that can be expressed through sound.”",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "– Silvia Nakkach",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        },
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "anchor": "comp-lq380pdg"
+    },
+    {
+      "id": "sec_csea9yxhn7",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_gngss7tkm3",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Unlock Your Voice, Embrace Your Unique Sound"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_s410f5vdfk",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-bd49607a293a447ea7fc8d84d167f9fb--wayx.png",
+              "alt": "",
+              "width": 900,
+              "height": 700,
+              "mediaId": "med_wayxb87bt4"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_dtwmw96syk",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "My vocal alchemy sessions are designed to meet you exactly where you are and guide you into the next octave of your expression."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "If you're yearning to feel more "
+                    },
+                    {
+                      "type": "text",
+                      "text": "comfortable, confident, and free in your authentic expression",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", these sessions are for you. Together, we unravel the roots of limiting beliefs that may have kept your voice suppressed. Whether it's the fear of judgment, the belief that your voice \"isn't good enough,\" or that you \"can't sing\"."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "These sessions are not about conforming to a standard but about discovering and embracing the "
+                    },
+                    {
+                      "type": "text",
+                      "text": "beauty of your unique sound and its healing powers. ",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        },
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "During our time together, I weave a variety of practices to support your liberation and intentions, whether it's a cathartic release process, vocal play exercises, sounding techniques, or inner child healing."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You will connect with the healing power of your voice and walk away with a personalized toolkit that empowers your voice and authentic expression."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "If you are ready to..."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​​"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Reclaim your innocence, power, and freedom through expression"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Learn to use your voice for emotional and physical healing"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Share more of your voice and gifts with humanity"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Feel more comfortable and confident in your authentic expression"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Connect with your creativity as an outlet for your emotions"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Discover the therapeutic ways sound can support your nervous system"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Let's awaken the healing power of your voice!"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        },
+        {
+          "id": "blk_bh9489bxy4",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "BOOK NOW",
+            "link": {
+              "type": "url",
+              "url": "https://calendly.com/follow-your-blisten/vocalalchemy"
+            },
+            "role": "primary"
+          }
+        },
+        {
+          "id": "blk_vts49gxdej",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-a2df4365ed8841b58150f504f4382b8b--68st.png",
+              "alt": "",
+              "width": 900,
+              "height": 700,
+              "mediaId": "med_68st3c7zmq"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "comp-lqalqe2k"
+    },
+    {
+      "id": "sec_ejbttp17dd",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_s5taq7kbk3",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "An Ode To Your Voice..."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Your song will carry you to the shores of your heart,"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Returning the broken parts and giving them space to be heard, seen, and felt."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Your sound"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Is an all-embracing space for your emotions to alchemize themselves free."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "It's a sanctuary for you to surrender, remember, return to your roots"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "and deepen your communion with the divine"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "It'll give your prayers wings to fly"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "and crafts a temple inside your heart for god and the angels to sing"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "It provides a home to remember the truth, power, beauty, and spirit infinitely available in every breath."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sing for…"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "the strength it gives you"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "the healing it provides"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "the liberation invokes"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "and, of course, "
+                    },
+                    {
+                      "type": "text",
+                      "text": "sing for",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " the"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "natural joy, beauty, love, and service"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "it brings to yourself and the world"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_y2q1b1rehx",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_sfynarkvhd",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Don't sing to be good... Sing to be "
+                    },
+                    {
+                      "type": "text",
+                      "text": "free",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_j71gp6ancy",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        },
+        "align": "center"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_7rp0h02qse",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Book Your Session"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "PERSONALIZED"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "VOCAL ALCHEMY SESSION"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "$150",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_defkrxw3rd",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "I'M READY!",
+            "link": {
+              "type": "url",
+              "url": "https://calendly.com/follow-your-blisten/vocalalchemy"
+            },
+            "role": "primary"
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_vdnfae9bdn",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-7535f579e2c2432c9df38ba0d5bda6f0--xxpr.png",
+              "alt": "",
+              "width": 978,
+              "height": 1144,
+              "mediaId": "med_xxprk4n7j1"
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 1
+        },
+        {
+          "id": "blk_8n6ftme1w4",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-3926e8cdacb14ffcb6ef16adcdd42267--e4pg.jpg",
+              "alt": "IMG_5618.jpeg",
+              "width": 1178,
+              "height": 776,
+              "mediaId": "med_e4pgey2gtj"
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lqasaifo"
+    },
+    {
+      "id": "sec_m50fedgkn2",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_x27072w15x",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "blockquote",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "“Courtney is clear conduit for the divine, a role model for what can be done with voice and play. The session I had with her was more powerful than any DMT journeys I'v ever been on. She met me right where I was and used the energy to move through ancient wounds and trauma. I felt completely safe to move through whatever I needed too even if it was really ugly, there was no judgment. The amount of work we did in this short time was astounding. My entire being was flooded with light and transmutation. I feel empty, whole, healed.”"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_74dfqeq6r5",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "- Bonnie"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "comp-lq36j9t0"
+    },
+    {
+      "id": "sec_ec6vr9zr9e",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/11062b-b111f266bcec4c54bb9fcd2d7d4e4a8f--w32m.jpg",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_qvtv6s163f",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Courtney's Journey To Song"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Intuitive healer, embodiment guide, ceremonialist, and sound priestess.",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_hvwwcyynn9",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-b5ebf8204de848c8a5db523b8c908412--asj3.png",
+              "alt": "",
+              "width": 578,
+              "height": 599,
+              "mediaId": "med_asj3x469fp"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_snv3339d5e",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "As a child, singing was my greatest joy. Yet, there was a moment where my voice was criticized and my song turned silent for over ten years. It took a breakup and a flood of emotions to rediscover the transformative power of my own voice."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "In the depths of despair, I turned to journaling, and singing the words on the page became a visceral cathartic experience that awakened the knowing and remembrance that I could express my emotions through sound. It was a pivotal moment that ignited my passion for music and self-expression."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "My journey led me to "
+                    },
+                    {
+                      "type": "text",
+                      "text": "study sound healing, sacred song facilitation, medicine music, and the transformative practice of yoga of the voice.",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " I now LOVE helping individuals unlock the full potential of their voice and discovering its power for healing, fulfillment, and embodiment."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "anchor": "comp-lq88iovv"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "pg_39ycsqrckg",
+  "title": "Sound Medicine Course",
+  "slug": "challenges",
+  "seo": {
+    "title": "Program List",
+    "image": "media/2026/11/2a148f-04d1214c7fc04707a73329fcee0e252c--9gr3.jpg"
+  },
+  "hidden": true,
+  "sections": [
+    {
+      "id": "sec_ee95xedgkz",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/11062b-d578b9d4ffba48c68d086ec29fe9e6f0f-t71d.jpg"
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [],
+      "anchor": "bglayers-comp-m8di9c3h"
+    },
+    {
+      "id": "sec_cjpy9hjazs",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_gqky7anazy",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sound Medicine Course"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "No available programs"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

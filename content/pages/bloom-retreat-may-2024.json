@@ -1,0 +1,1191 @@
+{
+  "id": "pg_xy9fn9g4k8",
+  "title": "Bloom",
+  "slug": "bloom-retreat-may-2024",
+  "seo": {
+    "title": "Bloom Retreat ~ May 2024",
+    "image": "media/2026/11/2a148f-04d1214c7fc04707a73329fcee0e252c--9gr3.jpg"
+  },
+  "hidden": true,
+  "sections": [
+    {
+      "id": "sec_j8p7e4xnjg",
+      "preset": "component/imported-bloom-retreat-may-2024-1@1",
+      "label": "Bloom",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/2a148f-5dbff475835c497cac5c0e11d4e23146--spy5.png",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "711px",
+          "m": "711px"
+        },
+        "padding": {
+          "d": "3xl",
+          "m": "3xl"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_sk5dk98928",
+          "type": "component/imported-bloom-retreat-may-2024-1",
+          "v": 1,
+          "fields": {
+            "text1": "Bloom",
+            "text2": "WOMENS RETREAT",
+            "text3": "Kauai, HI",
+            "text4": "May 15-20, 2024"
+          }
+        }
+      ],
+      "anchor": "comp-lpqmkdb7"
+    },
+    {
+      "id": "sec_2kp44f8nps",
+      "preset": "component/imported-bloom-retreat-may-2024-2@1",
+      "label": "You're Invited",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_wxvcmxjv6q",
+          "type": "component/imported-bloom-retreat-may-2024-2",
+          "v": 1,
+          "fields": {
+            "text1": "You're Invited",
+            "image2": {
+              "src": "media/2026/11/white-splash-2-edited-gb41.png",
+              "alt": "",
+              "width": 470,
+              "height": 96,
+              "mediaId": "med_gb41mcr2nh"
+            },
+            "text3": "To join a constellation of soul sisters in the beautiful island of Kauai. Come fill up your cup, tap into your creativity, and let the beauty of your brilliance shine through.",
+            "text4": "​​"
+          }
+        }
+      ],
+      "anchor": "comp-lprhva5b"
+    },
+    {
+      "id": "sec_p1sy7sttt3",
+      "preset": "component/imported-bloom-retreat-may-2024-3@1",
+      "label": "If you feel called to :",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_wdc32kmqne",
+          "type": "component/imported-bloom-retreat-may-2024-3",
+          "v": 1,
+          "fields": {
+            "image1": {
+              "src": "media/2026/11/2a148f-c41d33b8f3034567b84e00d4d36b7f6f--gtxr.png",
+              "alt": "",
+              "width": 821,
+              "height": 648,
+              "mediaId": "med_gtxr6pyfg7"
+            },
+            "text2": "If you feel called to :",
+            "text3": "Connect with your priestess path through ritual and ceremony",
+            "text4": "​",
+            "text5": "Ignite the healing power of your voice",
+            "text6": "​",
+            "text7": "Purify patterns and ways of being that aren't serving you",
+            "text8": "​",
+            "text9": "Have the spaciousness to recharge & receive clarity, healing, and empowerment",
+            "text10": "Cultivate your connection with your sensuality",
+            "text11": "​",
+            "text12": "Expand your creative pathways through song",
+            "text13": "​",
+            "text14": "Embody more play, freedom, and pleasure in your life",
+            "text15": "​",
+            "text16": "​Be nourished and held in sisterhood",
+            "text17": "​",
+            "text18": "​",
+            "text19": "This retreat is for you!"
+          }
+        }
+      ],
+      "anchor": "comp-lppmqq7o"
+    },
+    {
+      "id": "sec_hb39davr17",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/2a148f-4974b231b7f44a5dbe838e1c81216b01--k17v.jpg"
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [],
+      "anchor": "comp-lq6vdyn7"
+    },
+    {
+      "id": "sec_78h06j6bkc",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        },
+        "align": "center"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_7wwt8f0h48",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/11062b-01c635fb889c41eda7482f28c1dab004--8q43.jpg",
+              "alt": "Pink Smudge",
+              "width": 2400,
+              "height": 1599,
+              "mediaId": "med_8q43vw0qdy"
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_sdvkpybw0p",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "“My soul needed this. I felt enveloped with a deep sense of joy and belonging that I have never experienced so strongly before. I knew this experience was a gift from Spirit. I really loved the incredible energy of nature surrounding this beautiful home and is all over this sacred island. The love shared by Courtney was an inspiring gift from the first moment of connection.”",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        },
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        },
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "- Rebecca Lash",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lq6vhugk"
+    },
+    {
+      "id": "sec_2nrhashbmz",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            4,
+            4,
+            4
+          ],
+          "m": [
+            12
+          ]
+        },
+        "align": "center"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_kt3bq8gaa1",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-dde3ffc4c55f404eaadb1b572bebd4ec--hfwx.jpg",
+              "alt": "",
+              "width": 1620,
+              "height": 773,
+              "mediaId": "med_hfwx4meycx"
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_zwby48190n",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Join the Journey"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Out of all the places that I have traveled in the world, Kauai has touched my heart most deeply. I’m completely in love with this island and am grateful for the immense growth I have experienced living here. She has brought to the surface my deepest pains and opened the door to touch my most ecstatic, authentic, and liberated states of being."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The beauty, wonders, and incredible healing energy here are completely pure and potent. The frequency of the island is a vibrant, palpable emanation of the divine mother. You can’t help but restore deeper depths of love, wisdom, and truth through her reflection."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Remembering more of who you are through meeting her magnificence."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          },
+          "column": 1
+        },
+        {
+          "id": "blk_m5xm08d3ph",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-e53da7f9fd04488391644569497ffc04--yb5w.png",
+              "alt": "",
+              "width": 538,
+              "height": 814,
+              "mediaId": "med_yb5wvfnzdr"
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 2
+        }
+      ],
+      "preset": "starter/stack-4-4-4@1",
+      "anchor": "comp-lq6vydcu"
+    },
+    {
+      "id": "sec_8hz9qjhm6d",
+      "preset": "component/imported-bloom-retreat-may-2024-7@1",
+      "label": "Embrace Your",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/2a148f-26333b57b5ab4e48a6e014f8ad1a474b--jy19.jpg",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "609px",
+          "m": "609px"
+        },
+        "padding": {
+          "d": "none",
+          "m": "none"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_835t9f8n3q",
+          "type": "component/imported-bloom-retreat-may-2024-7",
+          "v": 1,
+          "fields": {
+            "text1": "Essence...",
+            "text2": "Embrace Your",
+            "image3": {
+              "src": "media/2026/11/you-are-invited-1-tkgy.png",
+              "alt": "",
+              "width": 471,
+              "height": 469,
+              "mediaId": "med_tkgy7mwxph"
+            },
+            "text4": "Step into this journey dedicated to nourishing your mind, body, and soul. Here, we will weave incredible experiences for you to connect with your true self and let go of all that isn't serving you.",
+            "text5": "From immersive water ceremonies to the gift of learning new songs, from dancing under the starry sky to the comforting embrace of kindred souls. You will be held and guided into knowing a more empowered, joyous, and aligned YOU.",
+            "text6": "​"
+          }
+        }
+      ],
+      "anchor": "comp-lptm1ibl"
+    },
+    {
+      "id": "sec_5hpcb2wmd4",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_k9xe76wv4q",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "WHERE YOU'LL "
+                    },
+                    {
+                      "type": "text",
+                      "text": "be",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " STAYING"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You will be welcomed to my home, the \"Heart Temple.\" A radiant sanctuary surrounded by the vibrant nature of Kauai. A magical oasis filled with wild birds, blooming flowers, and fruit trees. You'll enjoy majestic mountain views with cascading waterfalls, exclusive access to our private saltwater pool and jacuzzi, and the ocean within a scenic ten-minute drive.",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Our amazing chef will provide delicious brunch, dinner, and yummy snacks daily."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This special six-day gathering will take place",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "May 15-20, 2024",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The retreat will be intimate and limited to six women beautiful women who feel the call."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        },
+        {
+          "id": "blk_a4a90bbdsv",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-c32235f6e04d4ab2ad6eda249dced0c9--zc2n.png",
+              "alt": "",
+              "width": 2250,
+              "height": 2333,
+              "mediaId": "med_zc2ntw2a2x"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_05a1b3ay3h",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-1f0191acfd354adda1b6c8e5898e8502--n3vz.png",
+              "alt": "",
+              "width": 2058,
+              "height": 2400,
+              "mediaId": "med_n3vzfwj87n"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_2eegndnb6b",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-bd20a699f79f444894fb137117d9c01a--s0ck.png",
+              "alt": "",
+              "width": 2250,
+              "height": 2240,
+              "mediaId": "med_s0ckf1stqe"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_dcq36dw10a",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-664c2406b90d41af86530a71ecfbdf03--7xp1.jpg",
+              "alt": "",
+              "width": 2250,
+              "height": 1977,
+              "mediaId": "med_7xp1ppw408"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_4e8e9e758v",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-15811dd51c3046589a7263fb43ca88ab--2cvz.png",
+              "alt": "",
+              "width": 100,
+              "height": 100,
+              "mediaId": "med_2cvzshpqx7"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_23k73tjsx6",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-719260d8f1d748c1b59a14cee423465a--72n9.png",
+              "alt": "",
+              "width": 2400,
+              "height": 1340,
+              "mediaId": "med_72n92655yp"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_ms1635fh9v",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-8b2b775e877641b98812954697459a35--1b2e.jpg",
+              "alt": "",
+              "width": 2063,
+              "height": 2400,
+              "mediaId": "med_1b2ebvmbwg"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_rdkmd4gb0b",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-8fdca5412e844260898d5caab4107194--t35e.png",
+              "alt": "",
+              "width": 300,
+              "height": 300,
+              "mediaId": "med_t35emtt4pc"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_v3qtz9bf85",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-15811dd51c3046589a7263fb43ca88ab--2cvz.png",
+              "alt": "",
+              "width": 100,
+              "height": 100,
+              "mediaId": "med_2cvzshpqx7"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "comp-lprs7v43"
+    },
+    {
+      "id": "sec_473vfbj710",
+      "preset": "component/imported-bloom-retreat-may-2024-9@1",
+      "label": "“This retreat was completely heart…",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/2a148f-38bb215ebd1949baa19a130a83e23fdf--a97b.jpg",
+          "focal": [
+            0.5,
+            1
+          ],
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_m3reyt05gw",
+          "type": "component/imported-bloom-retreat-may-2024-9",
+          "v": 1,
+          "fields": {
+            "text1": "“This retreat was completely heart opening, soul nourishing, frequency elevating, and LIFE CHANGING.”",
+            "text2": "- Alayna Sigerason"
+          }
+        }
+      ],
+      "anchor": "comp-lptss2d0"
+    },
+    {
+      "id": "sec_eq6d78ppjd",
+      "preset": "component/imported-bloom-retreat-may-2024-10@1",
+      "label": "We will be sharing, liberating,",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_51hqjmkwxp",
+          "type": "component/imported-bloom-retreat-may-2024-10",
+          "v": 1,
+          "fields": {
+            "text1": "We will be sharing, liberating,",
+            "image2": {
+              "src": "media/2026/11/we-will-be-sharing-1-kdw8.png",
+              "alt": "",
+              "width": 458,
+              "height": 458,
+              "mediaId": "med_kdw8swg9mk"
+            },
+            "text3": "- Songwriting and poetry",
+            "text4": "- Intuitive Dance",
+            "text5": "- Self Care",
+            "text6": "- Communion with the Elements",
+            "text7": "and",
+            "text8": "- Ocean + River Experiences",
+            "text9": "activating together through:​​",
+            "text10": "- Meditation + Prayer + Chi Gong",
+            "text11": "- Tea Ceremony",
+            "text12": "- Creative Practices + Improv"
+          }
+        }
+      ],
+      "anchor": "comp-lpttedjo"
+    },
+    {
+      "id": "sec_w2bre8ajj6",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/2a148f-d4474f7de6834f5986dd9b0c917b8132--kmvj.jpg"
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [],
+      "anchor": "comp-lpti1dkc"
+    },
+    {
+      "id": "sec_75bbzp4fnx",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "gap": "md",
+        "width": "content"
+      },
+      "style": {
+        "colorTheme": "light-accent",
+        "padding": {
+          "d": "2xl",
+          "m": "xl"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_6bva9yb244",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Your Investment :"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "$2,497"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Or"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "A variety of payment plans are available upon request."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I look forward to receiving your application!"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "It would be my deepest joy and honor to host you at my home and share in this incredible journey."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          },
+          "variant": "default"
+        },
+        {
+          "id": "blk_77m89bpga1",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "APPLICATION",
+            "link": {
+              "type": "url",
+              "url": "https://forms.gle/7Pa5NUK4Jv2vSUpNA"
+            },
+            "role": "primary"
+          },
+          "variant": "default",
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "cta/card-centered@1",
+      "anchor": "comp-lpthftsa"
+    },
+    {
+      "id": "sec_mrrfvxx1xg",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/11062b-a6d154bfda6d4921baa3cdf6b615a9db--e0mx.jpg",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_0ay8xwdjf4",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "“This Retreat felt like a true initiation into living in my highest devotion to self and my purpose. There were many moments when I could feel myself pressing up against my comfort zone, but I never felt an “I can’t do this” sensation in my body. I know it was because Courtney and all the women created such a safe space for us all to be messy, imperfect, and beautiful. “",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "- Ava Johanna",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "anchor": "comp-ltm71nf9"
+    },
+    {
+      "id": "sec_5f0erfv43g",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        },
+        "align": "center"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_w3ttxvjpe5",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "About me"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "My path into healing arts began at a very young age, developing my psychic abilities, compassion, and sensitivities through intense hardship. By the time I was in my late teens, I manifested several physical accidents that resulted in multiple surgeries and severe spinal issues causing unbearable pain.",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This was the very catalyst to launch me passionately onto my path of seeking modalities that would liberate me from my physical and emotional suffering. I've now traveled the world studying a variety of powerful transformational tools and healing modalities in diverse ranges of teachings and ancient wisdom traditions. Ranging from yoga of the voice, ancestral healing, NLP, Internal family systems, energy healing, chi gong, tao tantra, improv, meditation, plant medicine, yin yoga, sound healing, and women's circle facilitation. My passion is in helping others turn their pain into power, access their creative potential, and live a life they love.",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_t5egshm771",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-eacfb72398f84e36bba34e472cee7339--th6v.jpg",
+              "alt": "",
+              "width": 2250,
+              "height": 2199,
+              "mediaId": "med_th6vtx33xp"
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lpthjl04"
+    },
+    {
+      "id": "sec_3y9cnj5h66",
+      "preset": "component/imported-bloom-retreat-may-2024-15@1",
+      "label": "Frequently Asked Questions",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/2a148f-da517a81801e48b4abcd5470b3c476a5--6zgd.jpg",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.45
+          }
+        },
+        "minHeight": {
+          "d": "1172px",
+          "m": "1172px"
+        },
+        "padding": {
+          "d": "3xl",
+          "m": "3xl"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_bwmemh6mns",
+          "type": "component/imported-bloom-retreat-may-2024-15",
+          "v": 1,
+          "fields": {
+            "text2": "Frequently Asked Questions",
+            "label3": "What is included?",
+            "text4": "Accommodation, three meals a day, transportation to and from the airport, all rituals and ceremonies.",
+            "text5": "Flights not included.",
+            "label6": "Where do I fly into?",
+            "label7": "Is there transportation from the airport?",
+            "label8": "Will I have my own sleeping space?",
+            "label9": "Will there be a lot of hiking?",
+            "label10": "What time is arrival & departure?",
+            "label11": "How much alone time will there be?"
+          }
+        }
+      ],
+      "anchor": "comp-lq27vz3e"
+    }
+  ]
+}

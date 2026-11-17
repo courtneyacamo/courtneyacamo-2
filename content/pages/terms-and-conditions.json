@@ -1,0 +1,326 @@
+{
+  "id": "pg_76c3jx3h5y",
+  "title": "TERMS OF USE",
+  "slug": "terms-and-conditions",
+  "seo": {
+    "title": "Terms and conditions",
+    "image": "media/2026/11/2a148f-04d1214c7fc04707a73329fcee0e252c--9gr3.jpg"
+  },
+  "hidden": true,
+  "sections": [
+    {
+      "id": "sec_ra9p61610y",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        },
+        "align": "center",
+        "gap": "2xl"
+      },
+      "style": {
+        "colorTheme": "light-accent",
+        "padding": {
+          "d": "xl",
+          "m": "lg"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_p7agzk1fak",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/11062b-072948185e7345dd91b126e009855d05--a3fj.jpg",
+              "alt": "Ocean",
+              "width": 2400,
+              "height": 1599,
+              "mediaId": "med_a3fj264gdy"
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 0,
+          "variant": "default"
+        },
+        {
+          "id": "blk_2e284z52th",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "TERMS OF USE",
+            "level": "h1",
+            "size": "auto"
+          },
+          "variant": "plain",
+          "column": 0
+        },
+        {
+          "id": "blk_12apvmqwdq",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/2a148f-7ff01751469f4381a2e9f8b66e83424a--n3hq.jpg",
+              "alt": "",
+              "width": 1124,
+              "height": 968,
+              "mediaId": "med_n3hqsvzvh0"
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 1,
+          "variant": "default"
+        }
+      ],
+      "preset": "hero/split-image@1",
+      "anchor": "comp-lrlfika0"
+    },
+    {
+      "id": "sec_c5hrk1bzx6",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_94444fc4wy",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "TERMS & CONDITIONS"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THIS WEBSITE. By using this website, you signify your consent to these terms of use. If you do not agree to these Terms of Use, please do not use the website."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Your access to and use of this website, as well as all related websites operated by Courtney Acamo (which includes Courtneyacamo.com, (collectively the “Site”) is subject to the following terms and conditions (“Terms of Use”) and all applicable laws. By accessing and browsing the Site, you accept, without limitation or qualification, the Terms of Use and acknowledge that any other agreements between you and the Site are superseded and of no force or effect:"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "AMENDMENT OF TERMS"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We reserve the right to change, modify, add or remove portions of these terms at any time. Please check these terms regularly prior to using our website to ensure you are aware of any changes. We will endeavor to highlight any significant or substantive changes to you where possible. If you choose to use our website, then we will regard that use as conclusive evidence of your agreement and acceptance that these terms govern your and our rights and obligations to each other."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "LIMITATION OF LIABILITY"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "It is an essential pre-condition to you using our website that you agree and accept that courtneyacamo.com is not legally responsible for any loss or damage you might suffer related to your use of the website, whether from errors or from omissions in our documents or information, any goods or services we may offer or from any other use of the website. This includes your use or reliance on any third-party content, links, comments, or advertisements. Your use of, or reliance on, any information or materials on this website is entirely at your own risk, for which we shall not be liable."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific, personal requirements. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "1. You agree that the Site itself, as well as all content, videos, training materials, products, services and/or other materials, made available on the Site by us or other third parties, as well as the look and feel of all of the foregoing, (collectively referred to as the “Content”) are maintained for your personal use and information by Courtneyacamo.com , (the “Company”) and are the property of the Company and/or its third party providers. You agree that such Company Content shall include all proprietary videos, HTML/CSS, Javascript, graphics, voice and sound recordings, artwork, photos, documents, and text, as well as all other materials included in the Site, excluding only the materials you provide. Subject to your compliance with these Terms of Use, the Company hereby grants you a limited license, which is non-exclusive, non-transferable, and non-sublicensable, to access, view, and use the Site solely for your personal purposes. No Company Content may be copied, reproduced, republished, uploaded, posted, transmitted, distributed, used for public or commercial purposes, or downloaded in any way unless the Company expressly grants written permission. Modification of the Content or use of the Content for any other purpose is a violation of the copyright and other proprietary rights of the Company, as well as other authors who created the materials, and may be subject to monetary damages and penalties. You may not distribute, modify, transmit or use the content of the Site or any Content, including any and all software, tools, graphics and/or sound files, for public or commercial purposes without the express written permission of the Company."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "2. All Content, such as text, data, graphics files, videos and sound files, and other materials contained in the Site, are copyrighted unless otherwise noted and are the property of the Company and/or a supplier to the Company. No such materials may be used except as provided in these Terms of Use."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "3. All trade names, trademarks, and images and biographical information of people used in the Company Content and contained in the Site, including without limitation the name and trademark, are either the property of, or used with permission by, the Company. The use of Content by you is strictly prohibited unless specifically permitted by these Terms of Use. Any unauthorized use of Content may violate the copyright, trademark, and other proprietary rights of the Company and/or third parties, as well as the laws of privacy and publicity, and other regulations and statutes. Nothing contained in this Agreement or in the Site shall be construed as granting, by implication or otherwise, any license or right to use any Trademark or other proprietary information without the express written consent of the Company or third party owner. The Company respects the copyright, trademark and all other intellectual property rights of others. The Company has the right, but has no obligation, to remove content and accounts containing materials that it deems, in its sole discretion, to be unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party’s intellectual property or these Terms of Use. If you believe that your intellectual property rights are being violated and/or that any work belonging to you has been reproduced on the Site or in any Content in any way, you may notify Company at:"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Courtneyacamo@gmail.com",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "mailto:Courtneyacamo@gmail.com"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "WHOLE AGREEMENT"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "These terms and conditions represent the whole agreement between you and courtneyacamo.com concerning your use and access to our website and your use and access to the documents and information on it. All implied terms except those implied by statute and which cannot be expressly excluded are hereby expressly excluded."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "comp-lrlfiqpw"
+    }
+  ]
+}
