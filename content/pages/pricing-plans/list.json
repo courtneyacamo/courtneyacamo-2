@@ -9,6 +9,7 @@
   "sections": [
     {
       "id": "sec_ynx2hmjj27",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -60,8 +61,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     }
   ]
 }

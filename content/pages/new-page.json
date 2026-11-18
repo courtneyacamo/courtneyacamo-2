@@ -1,0 +1,62 @@
+{
+  "id": "pg_dpka1hjfss",
+  "title": "New page",
+  "slug": "new-page",
+  "sections": [
+    {
+      "id": "sec_r67jb89733",
+      "preset": "starter/stack-12@1",
+      "label": "Heading",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ],
+          "m": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_9fyrd80c18",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "New page"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Start with a sentence about this page."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "variant": "default"
+        }
+      ]
+    }
+  ]
+}

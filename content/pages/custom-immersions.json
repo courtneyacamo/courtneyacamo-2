@@ -8,6 +8,7 @@
   "sections": [
     {
       "id": "sec_g75dvpxgtp",
+      "anchor": "comp-lqn05hhi",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -18,6 +19,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/2a148f-06a47efae9fb48ce882fc401b0830831--80cf.png",
@@ -25,9 +29,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -109,11 +110,12 @@
             }
           }
         }
-      ],
-      "anchor": "comp-lqn05hhi"
+      ]
     },
     {
       "id": "sec_bx97azwp54",
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lrbj5yme",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -135,6 +137,7 @@
           "id": "blk_5mbyg3yr80",
           "type": "image",
           "v": 1,
+          "column": 0,
           "fields": {
             "image": {
               "src": "media/2026/11/11062b-70694feb00454a7aa9ca14335f627a7c--wmp0.jpg",
@@ -145,13 +148,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_qezy9qhknx",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -243,13 +246,13 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_1kdarzzb8x",
           "type": "image",
           "v": 1,
+          "column": 0,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-15811dd51c3046589a7263fb43ca88ab--2cvz.png",
@@ -260,13 +263,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_211v5zv041",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -337,13 +340,13 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_kmt9h155ng",
           "type": "image",
           "v": 1,
+          "column": 0,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-15811dd51c3046589a7263fb43ca88ab--2cvz.png",
@@ -354,13 +357,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_rnfjrds1f0",
           "type": "image",
           "v": 1,
+          "column": 0,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-16caa9d1d6ba43b3b31cb1d7aa776029--k8dy.png",
@@ -371,13 +374,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_gbe7nah007",
           "type": "image",
           "v": 1,
+          "column": 0,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-d0656f57d212469abd9abfbbad19ff8b--v0wp.png",
@@ -388,13 +391,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_a7etqd15z3",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-e2525caf016f4456bb06cc4e78856c45--gh9b.jpg",
@@ -405,15 +408,14 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "comp-lrbj5yme"
+      ]
     },
     {
       "id": "sec_1zb21px320",
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lqn12w6v",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -435,6 +437,7 @@
           "id": "blk_dejjkxzzw5",
           "type": "image",
           "v": 1,
+          "column": 0,
           "fields": {
             "image": {
               "src": "media/2026/11/f5dc791973474ca8a988e3ef134dadf4-cwtj.jpg",
@@ -445,13 +448,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_na93zvdxmn",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -511,13 +514,13 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_zfpfc41tkz",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-dde3ffc4c55f404eaadb1b572bebd4ec--hfwx.jpg",
@@ -528,15 +531,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "comp-lqn12w6v"
+      ]
     },
     {
       "id": "sec_zz4tkeqzfg",
+      "anchor": "comp-lqx7vwls",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -547,6 +548,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/2a148f-108c13f3285244c2950edbe2ce8bba8a--jq81.jpg",
@@ -554,9 +558,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -653,11 +654,11 @@
             "lightbox": false
           }
         }
-      ],
-      "anchor": "comp-lqx7vwls"
+      ]
     },
     {
       "id": "sec_am977xqsqz",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -719,11 +720,11 @@
             "lightbox": false
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_e8x6tfv7zv",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -785,11 +786,11 @@
             "lightbox": false
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_349rd0rkt0",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -851,11 +852,11 @@
             "lightbox": false
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_zekbyethey",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -917,11 +918,11 @@
             "lightbox": false
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_r7px4kxp6k",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -1006,11 +1007,11 @@
             "lightbox": false
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_2j9k3m6sf9",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -1056,11 +1057,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_k4sq9agqmr",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -1117,11 +1118,12 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_7yff2d2n3h",
+      "preset": "starter/stack-12@1",
+      "anchor": "comp-lqnbun85",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -1158,12 +1160,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1",
-      "anchor": "comp-lqnbun85"
+      ]
     },
     {
       "id": "sec_mwnzj7pp2q",
+      "anchor": "comp-lrljc19w",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -1174,6 +1175,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/eadb0412451740f4ad9a763f9a358ddc-n8zt.jpg",
@@ -1181,9 +1185,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -1358,11 +1359,12 @@
             "lightbox": false
           }
         }
-      ],
-      "anchor": "comp-lrljc19w"
+      ]
     },
     {
       "id": "sec_wnwn31t1vt",
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lrbq0z03",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -1384,6 +1386,7 @@
           "id": "blk_bn1tmcyh3s",
           "type": "image",
           "v": 1,
+          "column": 0,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-4f91414b07fc4da399b1c5f0038cd01b--heg5.png",
@@ -1394,13 +1397,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_q47ymprbjp",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -1548,13 +1551,13 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_d1m1jzg9t1",
           "type": "button",
           "v": 1,
+          "column": 1,
           "fields": {
             "label": "SCHEDULE A CALL",
             "link": {
@@ -1562,13 +1565,13 @@
               "url": "https://calendly.com/follow-your-blisten/luminiousimmersion"
             },
             "role": "primary"
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_38gnr1q6ek",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -1589,15 +1592,14 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "comp-lrbq0z03"
+      ]
     },
     {
       "id": "sec_660smm7btp",
+      "preset": "starter/stack-12@1",
+      "anchor": "comp-lqfvxw79",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -1708,12 +1710,12 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1",
-      "anchor": "comp-lqfvxw79"
+      ]
     },
     {
       "id": "sec_4nmw3cf4yy",
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lrc7oybz",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -1735,6 +1737,7 @@
           "id": "blk_e4xfmggn53",
           "type": "image",
           "v": 1,
+          "column": 0,
           "fields": {
             "image": {
               "src": "media/2026/11/78c0ef51e8af44af9bf92b4240ac98d6-1ec8.jpg",
@@ -1749,13 +1752,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_4a0xpymage",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -1786,13 +1789,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_64fms7ch1r",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-79e5ae0455e643619a2bf4a2bd111315--1cs0.png",
@@ -1803,13 +1806,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_b5ensd67hr",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-28d3a9ce346c4352886e59e1b384196a--30qe.png",
@@ -1820,13 +1823,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_3epzjxrcvr",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-c4f7494250aa4d0b8bafa91f1e04d143--ae35.png",
@@ -1837,13 +1840,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_3afj99vhnv",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-78d4dd22afc04dbb8911986f50bc1817--g79w.png",
@@ -1854,13 +1857,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_pn2zhzt88s",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -1899,12 +1902,9 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "comp-lrc7oybz"
+      ]
     }
   ]
 }

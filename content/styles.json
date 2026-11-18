@@ -66,8 +66,8 @@
           "lineHeight": 1.23,
           "letterSpacing": 0,
           "case": "none",
-          "font": "heading",
-          "weight": 400
+          "weight": 400,
+          "font": "heading"
         },
         "display": {
           "size": 130,
@@ -96,27 +96,27 @@
       }
     },
     "layout": {
+      "narrowWidth": 960,
       "sectionPadding": 50,
-      "sectionPaddingMobile": 46,
-      "narrowWidth": 960
+      "sectionPaddingMobile": 46
     }
   },
   "overrides": {
     "color": {
       "light": {
         "text": {
-          "$type": "color",
-          "$value": "#000000"
+          "$value": "#000000",
+          "$type": "color"
         },
         "heading": {
-          "$type": "color",
-          "$value": "#000000"
+          "$value": "#000000",
+          "$type": "color"
         }
       },
       "light-accent": {
         "text": {
-          "$type": "color",
-          "$value": "#000000"
+          "$value": "#000000",
+          "$type": "color"
         }
       }
     }

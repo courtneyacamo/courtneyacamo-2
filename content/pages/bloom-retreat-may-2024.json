@@ -12,6 +12,7 @@
       "id": "sec_j8p7e4xnjg",
       "preset": "component/imported-bloom-retreat-may-2024-1@1",
       "label": "Bloom",
+      "anchor": "comp-lpqmkdb7",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -23,6 +24,14 @@
       },
       "style": {
         "colorTheme": "dark",
+        "padding": {
+          "d": "3xl",
+          "m": "3xl"
+        },
+        "minHeight": {
+          "d": "711px",
+          "m": "711px"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/2a148f-5dbff475835c497cac5c0e11d4e23146--spy5.png",
@@ -30,14 +39,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "711px",
-          "m": "711px"
-        },
-        "padding": {
-          "d": "3xl",
-          "m": "3xl"
         }
       },
       "blocks": [
@@ -52,13 +53,13 @@
             "text4": "May 15-20, 2024"
           }
         }
-      ],
-      "anchor": "comp-lpqmkdb7"
+      ]
     },
     {
       "id": "sec_2kp44f8nps",
       "preset": "component/imported-bloom-retreat-may-2024-2@1",
       "label": "You're Invited",
+      "anchor": "comp-lprhva5b",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -89,13 +90,13 @@
             "text4": "​​"
           }
         }
-      ],
-      "anchor": "comp-lprhva5b"
+      ]
     },
     {
       "id": "sec_p1sy7sttt3",
       "preset": "component/imported-bloom-retreat-may-2024-3@1",
       "label": "If you feel called to :",
+      "anchor": "comp-lppmqq7o",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -141,11 +142,11 @@
             "text19": "This retreat is for you!"
           }
         }
-      ],
-      "anchor": "comp-lppmqq7o"
+      ]
     },
     {
       "id": "sec_hb39davr17",
+      "anchor": "comp-lq6vdyn7",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -156,19 +157,20 @@
       },
       "style": {
         "colorTheme": "light",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/2a148f-4974b231b7f44a5dbe838e1c81216b01--k17v.jpg"
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
-      "blocks": [],
-      "anchor": "comp-lq6vdyn7"
+      "blocks": []
     },
     {
       "id": "sec_78h06j6bkc",
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lq6vhugk",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -190,6 +192,7 @@
           "id": "blk_7wwt8f0h48",
           "type": "image",
           "v": 1,
+          "column": 0,
           "fields": {
             "image": {
               "src": "media/2026/11/11062b-01c635fb889c41eda7482f28c1dab004--8q43.jpg",
@@ -200,13 +203,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_sdvkpybw0p",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -266,15 +269,14 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "comp-lq6vhugk"
+      ]
     },
     {
       "id": "sec_2nrhashbmz",
+      "preset": "starter/stack-4-4-4@1",
+      "anchor": "comp-lq6vydcu",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -297,6 +299,7 @@
           "id": "blk_kt3bq8gaa1",
           "type": "image",
           "v": 1,
+          "column": 0,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-dde3ffc4c55f404eaadb1b572bebd4ec--hfwx.jpg",
@@ -307,13 +310,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_zwby48190n",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -364,13 +367,13 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_m5xm08d3ph",
           "type": "image",
           "v": 1,
+          "column": 2,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-e53da7f9fd04488391644569497ffc04--yb5w.png",
@@ -381,17 +384,15 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 2
+          }
         }
-      ],
-      "preset": "starter/stack-4-4-4@1",
-      "anchor": "comp-lq6vydcu"
+      ]
     },
     {
       "id": "sec_8hz9qjhm6d",
       "preset": "component/imported-bloom-retreat-may-2024-7@1",
       "label": "Embrace Your",
+      "anchor": "comp-lptm1ibl",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -403,6 +404,14 @@
       },
       "style": {
         "colorTheme": "dark",
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "minHeight": {
+          "d": "609px",
+          "m": "609px"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/2a148f-26333b57b5ab4e48a6e014f8ad1a474b--jy19.jpg",
@@ -410,14 +419,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "609px",
-          "m": "609px"
-        },
-        "padding": {
-          "d": "none",
-          "m": "none"
         }
       },
       "blocks": [
@@ -440,11 +441,12 @@
             "text6": "​"
           }
         }
-      ],
-      "anchor": "comp-lptm1ibl"
+      ]
     },
     {
       "id": "sec_5hpcb2wmd4",
+      "preset": "starter/stack-12@1",
+      "anchor": "comp-lprs7v43",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -712,14 +714,13 @@
             "lightbox": false
           }
         }
-      ],
-      "preset": "starter/stack-12@1",
-      "anchor": "comp-lprs7v43"
+      ]
     },
     {
       "id": "sec_473vfbj710",
       "preset": "component/imported-bloom-retreat-may-2024-9@1",
       "label": "“This retreat was completely heart…",
+      "anchor": "comp-lptss2d0",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -731,6 +732,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/2a148f-38bb215ebd1949baa19a130a83e23fdf--a97b.jpg",
@@ -742,9 +746,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -757,13 +758,13 @@
             "text2": "- Alayna Sigerason"
           }
         }
-      ],
-      "anchor": "comp-lptss2d0"
+      ]
     },
     {
       "id": "sec_eq6d78ppjd",
       "preset": "component/imported-bloom-retreat-may-2024-10@1",
       "label": "We will be sharing, liberating,",
+      "anchor": "comp-lpttedjo",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -802,11 +803,11 @@
             "text12": "- Creative Practices + Improv"
           }
         }
-      ],
-      "anchor": "comp-lpttedjo"
+      ]
     },
     {
       "id": "sec_w2bre8ajj6",
+      "anchor": "comp-lpti1dkc",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -817,19 +818,20 @@
       },
       "style": {
         "colorTheme": "light",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/2a148f-d4474f7de6834f5986dd9b0c917b8132--kmvj.jpg"
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
-      "blocks": [],
-      "anchor": "comp-lpti1dkc"
+      "blocks": []
     },
     {
       "id": "sec_75bbzp4fnx",
+      "preset": "cta/card-centered@1",
+      "anchor": "comp-lpthftsa",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -938,12 +940,12 @@
               ]
             }
           },
+          "variant": "default",
           "style": {
             "align": {
               "d": "center"
             }
-          },
-          "variant": "default"
+          }
         },
         {
           "id": "blk_77m89bpga1",
@@ -964,12 +966,11 @@
             }
           }
         }
-      ],
-      "preset": "cta/card-centered@1",
-      "anchor": "comp-lpthftsa"
+      ]
     },
     {
       "id": "sec_mrrfvxx1xg",
+      "anchor": "comp-ltm71nf9",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -980,6 +981,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/11062b-a6d154bfda6d4921baa3cdf6b615a9db--e0mx.jpg",
@@ -987,9 +991,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -1038,11 +1039,12 @@
             }
           }
         }
-      ],
-      "anchor": "comp-ltm71nf9"
+      ]
     },
     {
       "id": "sec_5f0erfv43g",
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lpthjl04",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -1064,6 +1066,7 @@
           "id": "blk_w3ttxvjpe5",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -1110,13 +1113,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_t5egshm771",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-eacfb72398f84e36bba34e472cee7339--th6v.jpg",
@@ -1127,17 +1130,15 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "comp-lpthjl04"
+      ]
     },
     {
       "id": "sec_3y9cnj5h66",
       "preset": "component/imported-bloom-retreat-may-2024-15@1",
       "label": "Frequently Asked Questions",
+      "anchor": "comp-lq27vz3e",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -1149,6 +1150,14 @@
       },
       "style": {
         "colorTheme": "dark",
+        "padding": {
+          "d": "3xl",
+          "m": "3xl"
+        },
+        "minHeight": {
+          "d": "1172px",
+          "m": "1172px"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/2a148f-da517a81801e48b4abcd5470b3c476a5--6zgd.jpg",
@@ -1156,14 +1165,6 @@
             "color": "#000000",
             "opacity": 0.45
           }
-        },
-        "minHeight": {
-          "d": "1172px",
-          "m": "1172px"
-        },
-        "padding": {
-          "d": "3xl",
-          "m": "3xl"
         }
       },
       "blocks": [
@@ -1184,8 +1185,7 @@
             "label11": "How much alone time will there be?"
           }
         }
-      ],
-      "anchor": "comp-lq27vz3e"
+      ]
     }
   ]
 }

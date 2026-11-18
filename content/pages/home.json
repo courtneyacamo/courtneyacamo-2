@@ -10,6 +10,8 @@
   "sections": [
     {
       "id": "sec_g58z65em15",
+      "preset": "hero/menu-led@1",
+      "anchor": "comp-lpf1jvgq",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -40,6 +42,7 @@
           "id": "blk_tv0wsn7j38",
           "type": "image",
           "v": 1,
+          "column": 0,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-108c13f3285244c2950edbe2ce8bba8a--jq81.jpg",
@@ -51,25 +54,25 @@
             "aspect": "original",
             "lightbox": false
           },
-          "column": 0,
           "variant": "default"
         },
         {
           "id": "blk_0cfmzzma0z",
           "type": "heading",
           "v": 1,
+          "column": 0,
           "fields": {
             "text": "AWAKEN THE CURRENTS OF CREATION",
             "level": "h1",
             "size": "h2"
           },
-          "variant": "plain",
-          "column": 0
+          "variant": "plain"
         },
         {
           "id": "blk_mp3bwppna9",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -106,13 +109,13 @@
               ]
             }
           },
-          "column": 0,
           "variant": "default"
         },
         {
           "id": "blk_n2k14x3bhx",
           "type": "button",
           "v": 1,
+          "column": 0,
           "fields": {
             "label": "Learn more",
             "link": {
@@ -121,13 +124,13 @@
             },
             "role": "primary"
           },
-          "column": 0,
           "variant": "default"
         },
         {
           "id": "blk_dr923q6xqf",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-4a677acf4a994fb49f9fd8ca30826cb7--mqwp.jpg",
@@ -143,15 +146,14 @@
             "aspect": "original",
             "lightbox": false
           },
-          "column": 1,
           "variant": "default"
         }
-      ],
-      "preset": "hero/menu-led@1",
-      "anchor": "comp-lpf1jvgq"
+      ]
     },
     {
       "id": "sec_dky8pev7v0",
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lpfdxepn",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -173,6 +175,7 @@
           "id": "blk_e21kqb82bb",
           "type": "image",
           "v": 1,
+          "column": 0,
           "fields": {
             "image": {
               "src": "media/2026/11/11062b-778064cdb3784a2e87e1cd27ae6dc6fe--a53j.jpg",
@@ -183,13 +186,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_sm748a391g",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -213,15 +216,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "comp-lpfdxepn"
+      ]
     },
     {
       "id": "sec_9jyawaac5r",
+      "anchor": "comp-lpq25xkp",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -232,6 +233,14 @@
       },
       "style": {
         "colorTheme": "dark",
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "minHeight": {
+          "d": "881px",
+          "m": "881px"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/2a148f-a26d2f3f9f5c4c1c8af0888007d4e2c4--9yd0.jpg",
@@ -243,14 +252,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "881px",
-          "m": "881px"
-        },
-        "padding": {
-          "d": "none",
-          "m": "none"
         }
       },
       "blocks": [
@@ -425,11 +426,12 @@
             "lightbox": false
           }
         }
-      ],
-      "anchor": "comp-lpq25xkp"
+      ]
     },
     {
       "id": "sec_h83sxn6tpc",
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lpf3uxmq",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -451,6 +453,7 @@
           "id": "blk_dr767b9am9",
           "type": "image",
           "v": 1,
+          "column": 0,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-a3749b4457b14e449843768fef1dd4aa--jt27.jpg",
@@ -465,13 +468,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_v8e41ax2rb",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -490,13 +493,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_nsrm3nprxx",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-d93b18648a7745fe8b6a4bb1f25915dd--zr1r.png",
@@ -507,13 +510,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_tj8r35fn7v",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -532,13 +535,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_kmq3dn53wy",
           "type": "gallery",
           "v": 1,
+          "column": 1,
           "fields": {
             "images": [
               {
@@ -574,13 +577,13 @@
             "lightbox": true,
             "showCaptions": false
           },
-          "variant": "grid",
-          "column": 1
+          "variant": "grid"
         },
         {
           "id": "blk_n1mq24esbk",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -606,13 +609,13 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_d98pezqyyw",
           "type": "gallery",
           "v": 1,
+          "column": 1,
           "fields": {
             "images": [
               {
@@ -648,13 +651,13 @@
             "lightbox": true,
             "showCaptions": false
           },
-          "variant": "grid",
-          "column": 1
+          "variant": "grid"
         },
         {
           "id": "blk_ybrmxagjp0",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -680,13 +683,13 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_8r59gdqp6x",
           "type": "gallery",
           "v": 1,
+          "column": 1,
           "fields": {
             "images": [
               {
@@ -722,13 +725,13 @@
             "lightbox": true,
             "showCaptions": false
           },
-          "variant": "grid",
-          "column": 1
+          "variant": "grid"
         },
         {
           "id": "blk_davnhja3e5",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -754,15 +757,14 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "comp-lpf3uxmq"
+      ]
     },
     {
       "id": "sec_c7tdcds1p8",
+      "preset": "starter/stack-12@1",
+      "anchor": "comp-lpv2986y",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -897,9 +899,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1",
-      "anchor": "comp-lpv2986y"
+      ]
     }
   ]
 }

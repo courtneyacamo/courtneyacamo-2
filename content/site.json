@@ -33,20 +33,25 @@
       "type": "page",
       "page": "pg_wpy1y5esx5",
       "label": "Contact me"
+    },
+    {
+      "type": "page",
+      "page": "pg_dpka1hjfss"
     }
   ],
   "header": {
     "variant": "classic-left",
+    "sticky": false,
+    "transparentOnHero": false,
+    "mobileMenu": "fullscreen",
     "logoHeight": {
       "d": 95,
       "m": 40
-    },
-    "sticky": false,
-    "transparentOnHero": false,
-    "mobileMenu": "fullscreen"
+    }
   },
   "footer": {
     "id": "sec_6w5tp4zma1",
+    "label": "Footer",
     "layout": {
       "mode": "stack",
       "columns": {
@@ -327,8 +332,7 @@
           ]
         }
       }
-    ],
-    "label": "Footer"
+    ]
   },
   "social": [
     {

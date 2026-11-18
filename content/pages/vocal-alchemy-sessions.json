@@ -9,6 +9,8 @@
   "sections": [
     {
       "id": "sec_dm62d6yvxm",
+      "preset": "hero/full-bleed-photo@1",
+      "anchor": "comp-lq36amt8",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -20,6 +22,14 @@
       },
       "style": {
         "colorTheme": "dark",
+        "padding": {
+          "d": "3xl",
+          "m": "2xl"
+        },
+        "minHeight": {
+          "d": "88vh",
+          "m": "70svh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/2a148f-05ce94dee3a0439ca30c7a38d5cd9ad1--ncer.jpg",
@@ -27,14 +37,6 @@
             "color": "#000000",
             "opacity": 0.45
           }
-        },
-        "minHeight": {
-          "d": "88vh",
-          "m": "70svh"
-        },
-        "padding": {
-          "d": "3xl",
-          "m": "2xl"
         }
       },
       "blocks": [
@@ -73,12 +75,11 @@
             }
           }
         }
-      ],
-      "preset": "hero/full-bleed-photo@1",
-      "anchor": "comp-lq36amt8"
+      ]
     },
     {
       "id": "sec_wq4mrkj7my",
+      "anchor": "comp-lq380pdg",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -89,6 +90,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/11062b-b111f266bcec4c54bb9fcd2d7d4e4a8f--w32m.jpg",
@@ -96,9 +100,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -162,11 +163,12 @@
             }
           }
         }
-      ],
-      "anchor": "comp-lq380pdg"
+      ]
     },
     {
       "id": "sec_csea9yxhn7",
+      "preset": "starter/stack-12@1",
+      "anchor": "comp-lqalqe2k",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -504,12 +506,11 @@
             "lightbox": false
           }
         }
-      ],
-      "preset": "starter/stack-12@1",
-      "anchor": "comp-lqalqe2k"
+      ]
     },
     {
       "id": "sec_ejbttp17dd",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -744,11 +745,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_y2q1b1rehx",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -799,11 +800,12 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_j71gp6ancy",
+      "preset": "starter/stack-6-6@1",
+      "anchor": "comp-lqasaifo",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -825,6 +827,7 @@
           "id": "blk_7rp0h02qse",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -898,13 +901,13 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_defkrxw3rd",
           "type": "button",
           "v": 1,
+          "column": 0,
           "fields": {
             "label": "I'M READY!",
             "link": {
@@ -912,13 +915,13 @@
               "url": "https://calendly.com/follow-your-blisten/vocalalchemy"
             },
             "role": "primary"
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_vdnfae9bdn",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-7535f579e2c2432c9df38ba0d5bda6f0--xxpr.png",
@@ -929,13 +932,13 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_8n6ftme1w4",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-3926e8cdacb14ffcb6ef16adcdd42267--e4pg.jpg",
@@ -946,15 +949,14 @@
             },
             "aspect": "original",
             "lightbox": false
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "comp-lqasaifo"
+      ]
     },
     {
       "id": "sec_m50fedgkn2",
+      "preset": "starter/stack-12@1",
+      "anchor": "comp-lq36j9t0",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -1019,12 +1021,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1",
-      "anchor": "comp-lq36j9t0"
+      ]
     },
     {
       "id": "sec_ec6vr9zr9e",
+      "anchor": "comp-lq88iovv",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -1035,6 +1036,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/11062b-b111f266bcec4c54bb9fcd2d7d4e4a8f--w32m.jpg",
@@ -1042,9 +1046,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -1187,8 +1188,7 @@
             }
           }
         }
-      ],
-      "anchor": "comp-lq88iovv"
+      ]
     }
   ]
 }

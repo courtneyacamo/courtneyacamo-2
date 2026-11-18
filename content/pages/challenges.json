@@ -10,6 +10,7 @@
   "sections": [
     {
       "id": "sec_ee95xedgkz",
+      "anchor": "bglayers-comp-m8di9c3h",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -20,16 +21,15 @@
       },
       "style": {
         "colorTheme": "light",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/11/11062b-d578b9d4ffba48c68d086ec29fe9e6f0f-t71d.jpg"
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
-      "blocks": [],
-      "anchor": "bglayers-comp-m8di9c3h"
+      "blocks": []
     },
     {
       "id": "sec_cjpy9hjazs",

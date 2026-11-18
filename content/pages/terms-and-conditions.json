@@ -10,6 +10,8 @@
   "sections": [
     {
       "id": "sec_ra9p61610y",
+      "preset": "hero/split-image@1",
+      "anchor": "comp-lrlfika0",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -36,6 +38,7 @@
           "id": "blk_p7agzk1fak",
           "type": "image",
           "v": 1,
+          "column": 0,
           "fields": {
             "image": {
               "src": "media/2026/11/11062b-072948185e7345dd91b126e009855d05--a3fj.jpg",
@@ -47,25 +50,25 @@
             "aspect": "original",
             "lightbox": false
           },
-          "column": 0,
           "variant": "default"
         },
         {
           "id": "blk_2e284z52th",
           "type": "heading",
           "v": 1,
+          "column": 0,
           "fields": {
             "text": "TERMS OF USE",
             "level": "h1",
             "size": "auto"
           },
-          "variant": "plain",
-          "column": 0
+          "variant": "plain"
         },
         {
           "id": "blk_12apvmqwdq",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/11/2a148f-7ff01751469f4381a2e9f8b66e83424a--n3hq.jpg",
@@ -77,15 +80,14 @@
             "aspect": "original",
             "lightbox": false
           },
-          "column": 1,
           "variant": "default"
         }
-      ],
-      "preset": "hero/split-image@1",
-      "anchor": "comp-lrlfika0"
+      ]
     },
     {
       "id": "sec_c5hrk1bzx6",
+      "preset": "starter/stack-12@1",
+      "anchor": "comp-lrlfiqpw",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -318,9 +320,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1",
-      "anchor": "comp-lrlfiqpw"
+      ]
     }
   ]
 }
